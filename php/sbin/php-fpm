@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /opt/moodle-3.10.0-0/scripts/setenv.sh
+
+exec /opt/moodle-3.10.0-0/php/sbin/.php-fpm.bin -y /opt/moodle-3.10.0-0/php/etc/php-fpm.conf -p /opt/moodle-3.10.0-0/php/var/ -c /opt/moodle-3.10.0-0/php/etc/php.ini "$@"

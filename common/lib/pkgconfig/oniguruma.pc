@@ -1,0 +1,13 @@
+prefix=/opt/moodle-3.10.0-0/common
+exec_prefix=/opt/moodle-3.10.0-0/common
+libdir=/opt/moodle-3.10.0-0/common/lib
+includedir=/opt/moodle-3.10.0-0/common/include
+datarootdir=/opt/moodle-3.10.0-0/common/share
+datadir=/opt/moodle-3.10.0-0/common/share
+
+Name: oniguruma
+Description: Regular expression library
+Version: 6.9.4
+Requires:
+Libs: -L${libdir} -lonig
+Cflags: -I${includedir}

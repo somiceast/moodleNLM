@@ -1,0 +1,8 @@
+#!/bin/sh
+
+PATH="/opt/moodle-3.10.0-0/sqlite/bin:/opt/moodle-3.10.0-0/php/bin:/opt/moodle-3.10.0-0/mysql/bin:/opt/moodle-3.10.0-0/letsencrypt/:/opt/moodle-3.10.0-0/apache2/bin:/opt/moodle-3.10.0-0/common/bin:$PATH"
+BITNAMI_ROOT="/opt/moodle-3.10.0-0"
+export BITNAMI_ROOT
+
+
+exec /bin/bash --noprofile --norc

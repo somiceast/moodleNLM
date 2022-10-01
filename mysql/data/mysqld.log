@@ -1,0 +1,36 @@
+2022-07-20T04:47:15.766252Z 0 [System] [MY-010116] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin (mysqld 8.0.22) starting as process 6885
+2022-07-20T04:47:15.784492Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2022-07-20T04:47:16.060532Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2022-07-20T04:47:16.193361Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /tmp/mysqlx.sock
+2022-07-20T04:47:16.346492Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2022-07-20T04:47:16.346745Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2022-07-20T04:47:16.374959Z 0 [System] [MY-010931] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.22'  socket: '/opt/moodle-3.10.0-0/mysql/tmp/mysql.sock'  port: 3307  MySQL Community Server - GPL.
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)
+2022-07-24T14:58:53.524048Z 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.22).
+2022-07-24T14:58:54.490619Z 0 [System] [MY-010910] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2022-07-30T12:43:35.040430Z 0 [System] [MY-010116] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin (mysqld 8.0.22) starting as process 20372
+2022-07-30T12:43:35.068074Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2022-07-30T12:43:35.834276Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2022-07-30T12:43:36.073938Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /tmp/mysqlx.sock
+2022-07-30T12:43:36.169599Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2022-07-30T12:43:36.169887Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2022-07-30T12:43:36.201721Z 0 [System] [MY-010931] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.22'  socket: '/opt/moodle-3.10.0-0/mysql/tmp/mysql.sock'  port: 3307  MySQL Community Server - GPL.
+2022-08-01T09:46:50.584188Z 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.22).
+2022-08-01T09:46:51.163491Z 0 [System] [MY-010910] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2022-08-01T09:46:56.339257Z 0 [System] [MY-010116] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin (mysqld 8.0.22) starting as process 7170
+2022-08-01T09:46:56.355050Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2022-08-01T09:46:56.755751Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2022-08-01T09:46:56.956092Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /tmp/mysqlx.sock
+2022-08-01T09:46:57.060234Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2022-08-01T09:46:57.060480Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2022-08-01T09:46:57.090791Z 0 [System] [MY-010931] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.22'  socket: '/opt/moodle-3.10.0-0/mysql/tmp/mysql.sock'  port: 3307  MySQL Community Server - GPL.
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)

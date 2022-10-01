@@ -1,0 +1,5 @@
+a:15:{s:8:"alwaysgs";s:42:"将此服务用于成绩同步和列管理";s:21:"grade_synchronization";s:28:"IMS LTI作业和成绩服务";s:26:"grade_synchronization_help";s:392:"是否使用IMS LTI作业和成绩服务来同步成绩，而不是使用基础成绩服务。
+
+* **请勿使用此服务** - 将使用基础成果功能和配置
+* **仅将此服务用于成绩同步** - 此服务将在现有成绩册列中填充成绩，但无法创建新列
+* **将此服务用于成绩同步和列管理** - 该服务将能够创建和更新成绩册列并管理成绩。";s:28:"ltiservice_gradebookservices";s:28:"IMS LTI作业和成绩服务";s:10:"modulename";s:10:"LTI 成绩";s:7:"nevergs";s:21:"不要使用此服务";s:9:"partialgs";s:30:"此服务仅用于成绩同步";s:10:"pluginname";s:24:"LTI作业和成绩服务";s:32:"privacy:metadata:externalpurpose";s:45:"此信息将发送到外部LTI提供程序。";s:25:"privacy:metadata:feedback";s:39:"用户为此LTI活动收到的反馈。";s:22:"privacy:metadata:grade";s:51:"用户在Moodle中为此LTI活动收到的成绩。";s:25:"privacy:metadata:maxgrade";s:39:"此LTI活动可达到的最高成绩。";s:29:"privacy:metadata:timemodified";s:27:"上次更新成绩的时间";s:23:"privacy:metadata:userid";s:35:"使用LTI工具的平台的用户ID";s:11:"taskcleanup";s:33:"LTI作业和成绩服务表清理";}

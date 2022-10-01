@@ -1,0 +1,20 @@
+{
+  "fulfillmentMessages": [
+    {
+      "text": {
+        "text": [
+          "Text response from webhook"
+        ]
+      }
+    }
+  ],
+  "outputContexts": [
+    {
+      "name": "projects/newagent-dcry/agent/sessions/12f1d5f-e6fa-bc50-9b05-de834b9fd107/contexts/getdatafromsql_dialog_params_email",
+      "lifespanCount": 5,
+      "parameters": {
+        "email": "nonew"
+      }
+    }
+  ]
+}

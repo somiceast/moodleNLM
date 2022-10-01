@@ -1,0 +1,35 @@
+#! /bin/sh
+#
+# Created by configure
+
+CC="gcc"; export CC
+CFLAGS="-I/bitnami/lamp73stack-linux-x64/output/mysql/include -I/opt/moodle-3.10.0-0/common/include -fPIC -m64"; export CFLAGS
+CPPFLAGS="-I/opt/moodle-3.10.0-0/common/include"; export CPPFLAGS
+LDFLAGS="-L/opt/moodle-3.10.0-0/common/lib -liconv"; export LDFLAGS
+"./configure" \
+"--prefix=/opt/moodle-3.10.0-0/apache2" \
+"--enable-so" \
+"--enable-mods-shared=most" \
+"--disable-auth_dbm" \
+"--without-berkeley-db" \
+"--enable-deflate" \
+"--enable-ssl" \
+"--with-ssl=/opt/moodle-3.10.0-0/common" \
+"--enable-proxy" \
+"--enable-proxy-http" \
+"--enable-proxy-balancer" \
+"--enable-rewrite" \
+"--with-ldap" \
+"--enable-authnz-ldap" \
+"--enable-ldap" \
+"--with-apr=/opt/moodle-3.10.0-0/common/bin/apr-1-config" \
+"--with-apu=/opt/moodle-3.10.0-0/common/bin/apr-1-config" \
+"--with-pcre=/opt/moodle-3.10.0-0/common/bin/pcre-config" \
+"--enable-mpms-shared=all" \
+"--with-nghttp2=/opt/moodle-3.10.0-0/common/lib" \
+"--with-mpm=prefork" \
+"CC=gcc" \
+"CFLAGS=-I/bitnami/lamp73stack-linux-x64/output/mysql/include -I/opt/moodle-3.10.0-0/common/include -fPIC -m64" \
+"LDFLAGS=-L/opt/moodle-3.10.0-0/common/lib -liconv" \
+"CPPFLAGS=-I/opt/moodle-3.10.0-0/common/include" \
+"$@"

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /opt/moodle-3.10.0-0/scripts/setenv.sh
+
+exec /opt/moodle-3.10.0-0/sqlite/bin/.sqlite3.bin  "$@"
