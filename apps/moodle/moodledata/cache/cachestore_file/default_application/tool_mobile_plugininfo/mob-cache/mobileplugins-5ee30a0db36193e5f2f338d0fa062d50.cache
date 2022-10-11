@@ -1,1 +1,1 @@
-a:0:{}
+a:1:{i:0;a:9:{s:9:"component";s:9:"tool_demo";s:7:"version";s:10:"2022100300";s:5:"addon";s:14:"my_first_addon";s:12:"dependencies";a:2:{i:0;s:14:"dependency_one";i:1;s:14:"dependency_two";}s:7:"fileurl";s:0:"";s:8:"filehash";s:0:"";s:8:"filesize";i:0;s:8:"handlers";s:2:"[]";s:4:"lang";s:2:"[]";}}

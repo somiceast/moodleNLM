@@ -1,0 +1,19 @@
+[2022年10月02日 星期日 15时55分22秒] [info] instantiating backup controller 934d8357396f3839a32f9d4b72e98279
+[2022年10月02日 星期日 15时55分22秒] [debug] setting controller status to 100
+[2022年10月02日 星期日 15时55分22秒] [debug] loading controller plan
+[2022年10月02日 星期日 15时55分22秒] [debug] setting controller status to 300
+[2022年10月02日 星期日 15时55分22秒] [debug] applying plan defaults
+[2022年10月02日 星期日 15时55分22秒] [debug] setting controller status to 400
+[2022年10月02日 星期日 15时55分22秒] [debug] setting file inclusion to 
+[2022年10月02日 星期日 15时55分22秒] [info] checking plan security
+[2022年10月02日 星期日 15时55分22秒] [debug] setting controller status to 700
+[2022年10月02日 星期日 15时55分22秒] [debug] saving controller to db
+[2022年10月02日 星期日 15时55分22秒] [debug] calculating controller checksum 9741666be50d272e5c94c4d7b3124f00
+[2022年10月02日 星期日 15时55分22秒] [debug] loading controller from db
+[2022年10月02日 星期日 15时55分22秒] [debug] setting file inclusion to 1
+[2022年10月02日 星期日 15时55分22秒] [debug] setting controller status to 800
+[2022年10月02日 星期日 15时55分22秒] [debug] saving controller to db
+[2022年10月02日 星期日 15时55分22秒] [debug] calculating controller checksum 3109f48f1aa871b4edb4fe4146dca0e3
+[2022年10月02日 星期日 15时55分22秒] [debug] loading controller from db
+[2022年10月02日 星期日 15时55分22秒] [debug] setting controller status to 1000
+[2022年10月02日 星期日 15时55分22秒] [debug] saving controller to db

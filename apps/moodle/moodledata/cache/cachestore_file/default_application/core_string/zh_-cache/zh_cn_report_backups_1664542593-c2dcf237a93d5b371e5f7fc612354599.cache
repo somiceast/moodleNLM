@@ -1,1 +1,0 @@
-a:8:{s:18:"backupofcourselogs";s:19:"{$a}的备份日志";s:22:"logsofbackupexecutedon";s:31:"在{$a}上执行的备份日志";s:14:"nobackupsfound";s:21:"没有找到备份。";s:11:"nologsfound";s:30:"找不到此备份的日志。";s:10:"pluginname";s:12:"备份报告";s:12:"strftimetime";s:11:"%I:%M:%S %p";s:8:"viewlogs";s:12:"查看日志";s:16:"privacy:metadata";s:48:"备份报告插件不存储任何个人数据。";}
