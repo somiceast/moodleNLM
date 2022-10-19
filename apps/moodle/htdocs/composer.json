@@ -15,5 +15,8 @@
         "moodlehq/behat-extension": "3.310.0",
         "mikey179/vfsstream": "^1.6",
         "instaclick/php-webdriver": "dev-local as 1.x-dev"
+    },
+    "require": {
+        "google/cloud-dialogflow": "^0.28.1"
     }
 }

@@ -198,3 +198,120 @@
 2022-10-11T09:21:09.477172Z 1802 [Warning] [MY-010058] [Server] Hostname 'zg-0930c-189.stretchoid.com' does not resolve to '192.241.206.58'.
 2022-10-11T11:06:01.177262Z 1809 [Warning] [MY-010058] [Server] Hostname 'zg-0930d-185.stretchoid.com' does not resolve to '192.241.209.196'.
 2022-10-11T12:41:49.493719Z 2011 [Warning] [MY-010058] [Server] Hostname 'undefined.hostname.localhost' does not resolve to '147.78.47.99'.
+2022-10-11T16:07:45.892533Z 2249 [Warning] [MY-010055] [Server] IP address '198.235.24.8' could not be resolved: Name or service not known
+2022-10-11T19:10:29.232403Z 2258 [Warning] [MY-010055] [Server] IP address '47.102.115.221' could not be resolved: Name or service not known
+2022-10-11T20:00:35.176889Z 2261 [Warning] [MY-010057] [Server] IP address '34.78.6.216' has been resolved to the host name '216.6.78.34.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-11T20:00:35.742264Z 2262 [Warning] [MY-010057] [Server] IP address '34.76.158.233' has been resolved to the host name '233.158.76.34.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-11T20:00:36.374516Z 2262 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-11T20:42:30.951906Z 2263 [Warning] [MY-010055] [Server] IP address '14.204.44.147' could not be resolved: Name or service not known
+2022-10-11T22:10:11.469233Z 2268 [Warning] [MY-010055] [Server] IP address '47.92.168.210' could not be resolved: Name or service not known
+2022-10-12T00:41:45.639449Z 2276 [Warning] [MY-010055] [Server] IP address '167.94.145.60' could not be resolved: Name or service not known
+2022-10-12T01:38:27.959789Z 2277 [Warning] [MY-010058] [Server] Hostname 'zg-0930a-142.stretchoid.com' does not resolve to '192.241.217.35'.
+2022-10-12T05:46:21.132218Z 2279 [Warning] [MY-010055] [Server] IP address '185.167.96.138' could not be resolved: Name or service not known
+2022-10-12T08:33:18.335833Z 2361 [Warning] [MY-010058] [Server] Hostname 'internettl.org' does not resolve to '104.152.52.242'.
+2022-10-12T14:20:11.143955Z 2480 [Warning] [MY-010058] [Server] Hostname '173-18-211-112.client.mchsi.com' does not resolve to '173.18.211.112'.
+2022-10-12T15:37:38.787446Z 2482 [Warning] [MY-010058] [Server] Hostname 'recyber.net' does not resolve to '89.248.165.224'.
+2022-10-12T16:38:45.288944Z 2483 [Warning] [MY-010055] [Server] IP address '205.210.31.148' could not be resolved: Name or service not known
+2022-10-12T16:46:15.988779Z 2484 [Warning] [MY-010055] [Server] IP address '111.224.249.245' could not be resolved: Name or service not known
+2022-10-12T19:46:22.407956Z 2488 [Warning] [MY-010057] [Server] IP address '35.233.62.116' has been resolved to the host name '116.62.233.35.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-12T19:46:23.006655Z 2489 [Warning] [MY-010057] [Server] IP address '34.76.96.55' has been resolved to the host name '55.96.76.34.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-12T19:46:23.627628Z 2489 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-13T02:37:54.553689Z 2498 [Warning] [MY-010055] [Server] IP address '47.100.15.14' could not be resolved: Name or service not known
+2022-10-13T03:41:20.240137Z 2500 [Warning] [MY-010056] [Server] Host name 'ubtuntu20236116.aspadmin.net' could not be resolved: Name or service not known
+2022-10-13T04:26:27.194300Z 2506 [Warning] [MY-010058] [Server] Hostname 'zg-0930a-74.stretchoid.com' does not resolve to '192.241.216.145'.
+2022-10-13T09:33:30.169832Z 2518 [Warning] [MY-010056] [Server] Host name 'dedic1427.hidehost.net' could not be resolved: Name or service not known
+2022-10-13T09:49:29.081592Z 2519 [Warning] [MY-010055] [Server] IP address '101.251.207.218' could not be resolved: Name or service not known
+2022-10-13T10:00:01.208026Z 2524 [Warning] [MY-010058] [Server] Hostname 'recyber.net' does not resolve to '89.248.165.101'.
+2022-10-13T17:04:47.494923Z 2532 [Warning] [MY-010055] [Server] IP address '198.235.24.53' could not be resolved: Name or service not known
+2022-10-13T17:54:02.915235Z 2536 [Warning] [MY-010058] [Server] Hostname 'zg-0930g-90.stretchoid.com' does not resolve to '192.241.216.126'.
+2022-10-13T19:08:45.692824Z 2537 [Warning] [MY-010055] [Server] IP address '101.133.138.230' could not be resolved: Name or service not known
+2022-10-13T19:31:44.182289Z 2539 [Warning] [MY-010057] [Server] IP address '35.195.93.98' has been resolved to the host name '98.93.195.35.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-13T19:31:44.731477Z 2540 [Warning] [MY-010057] [Server] IP address '34.78.6.216' has been resolved to the host name '216.6.78.34.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-13T19:31:45.363554Z 2540 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-14T00:44:25.119871Z 2547 [Warning] [MY-010055] [Server] IP address '47.101.197.229' could not be resolved: Name or service not known
+2022-10-14T02:07:40.962097Z 2549 [Warning] [MY-010055] [Server] IP address '39.103.152.13' could not be resolved: Name or service not known
+2022-10-14T02:19:12.338299Z 2555 [Warning] [MY-010055] [Server] IP address '121.89.206.174' could not be resolved: Name or service not known
+2022-10-14T07:14:57.924078Z 3077 [Warning] [MY-010058] [Server] Hostname 'zg-0930f-186.stretchoid.com' does not resolve to '192.241.215.42'.
+2022-10-14T09:16:21.940571Z 3267 [Warning] [MY-010058] [Server] Hostname 'zg-0930a-3.stretchoid.com' does not resolve to '192.241.215.97'.
+2022-10-14T15:01:45.703377Z 3300 [Warning] [MY-010055] [Server] IP address '154.89.5.104' could not be resolved: Name or service not known
+2022-10-14T15:09:26.129698Z 3301 [Warning] [MY-010055] [Server] IP address '167.99.61.190' could not be resolved: Name or service not known
+2022-10-14T15:09:26.366036Z 3301 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-14T15:09:28.711538Z 3302 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-14T15:09:29.955815Z 3303 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-14T15:09:31.178537Z 3304 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-14T15:46:09.543632Z 3308 [Warning] [MY-010055] [Server] IP address '198.235.24.166' could not be resolved: Name or service not known
+2022-10-14T17:37:13.132676Z 3325 [Warning] [MY-010055] [Server] IP address '47.101.193.1' could not be resolved: Name or service not known
+2022-10-14T18:13:06.893587Z 3326 [Warning] [MY-010058] [Server] Hostname 'zg-0930b-27.stretchoid.com' does not resolve to '198.199.95.65'.
+2022-10-14T19:16:48.905132Z 3327 [Warning] [MY-010057] [Server] IP address '34.76.96.55' has been resolved to the host name '55.96.76.34.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-14T19:16:49.505346Z 3328 [Warning] [MY-010057] [Server] IP address '35.195.93.98' has been resolved to the host name '98.93.195.35.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-14T19:16:50.144054Z 3328 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-15T01:49:46.587529Z 3340 [Warning] [MY-010055] [Server] IP address '185.167.97.229' could not be resolved: Name or service not known
+2022-10-15T02:15:03.701109Z 3347 [Warning] [MY-010055] [Server] IP address '101.132.164.213' could not be resolved: Name or service not known
+2022-10-15T05:06:56.864333Z 3352 [Warning] [MY-010058] [Server] Hostname 'zg-0930c-123.stretchoid.com' does not resolve to '192.241.203.213'.
+2022-10-15T05:54:15.020509Z 3353 [Warning] [MY-010055] [Server] IP address '66.240.192.82' could not be resolved: Name or service not known
+2022-10-15T09:57:14.507858Z 3355 [Warning] [MY-010058] [Server] Hostname 'zg-0930c-50.stretchoid.com' does not resolve to '192.241.199.191'.
+2022-10-15T14:28:20.819631Z 3360 [Warning] [MY-010055] [Server] IP address '92.63.196.34' could not be resolved: Name or service not known
+2022-10-15T14:29:33.173055Z 3361 [Warning] [MY-010058] [Server] Hostname 'recyber.net' does not resolve to '89.248.165.82'.
+2022-10-15T15:26:22.550814Z 3362 [Warning] [MY-010055] [Server] IP address '205.210.31.8' could not be resolved: Name or service not known
+2022-10-15T19:00:07.658288Z 3365 [Warning] [MY-010057] [Server] IP address '34.76.158.233' has been resolved to the host name '233.158.76.34.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-15T19:00:08.269648Z 3366 [Warning] [MY-010057] [Server] IP address '34.78.6.216' has been resolved to the host name '216.6.78.34.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-15T19:00:08.908761Z 3366 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-15T20:24:00.983946Z 3368 [Warning] [MY-010055] [Server] IP address '91.191.209.206' could not be resolved: Name or service not known
+2022-10-15T20:37:28.506627Z 3369 [Warning] [MY-010058] [Server] Hostname 'zg-0930f-124.stretchoid.com' does not resolve to '192.241.214.115'.
+2022-10-15T23:27:33.660781Z 3384 [Warning] [MY-010055] [Server] IP address '219.159.67.7' could not be resolved: Name or service not known
+2022-10-16T01:17:13.524662Z 0 [Warning] [MY-010055] [Server] IP address '106.14.47.169' could not be resolved: Name or service not known
+[libprotobuf ERROR ../../../../../mysql-8.0.22/extra/protobuf/protobuf-3.11.4/src/google/protobuf/message_lite.cc:123] Can't parse message of type "Mysqlx.Connection.CapabilitiesSet" because it is missing required fields: (cannot determine missing fields for lite message)
+2022-10-16T01:50:45.921549Z 3422 [Warning] [MY-010055] [Server] IP address '47.92.54.139' could not be resolved: Name or service not known
+2022-10-16T11:36:09.747898Z 3452 [Warning] [MY-010055] [Server] IP address '106.14.7.114' could not be resolved: Name or service not known
+2022-10-16T12:46:27.186095Z 3453 [Warning] [MY-010058] [Server] Hostname 'zg-0930c-9.stretchoid.com' does not resolve to '192.241.197.133'.
+2022-10-16T18:10:50.543310Z 3460 [Warning] [MY-010055] [Server] IP address '198.235.24.168' could not be resolved: Name or service not known
+2022-10-16T18:51:56.023789Z 3461 [Warning] [MY-010057] [Server] IP address '130.211.54.158' has been resolved to the host name '158.54.211.130.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-16T18:51:56.612700Z 3462 [Warning] [MY-010057] [Server] IP address '34.76.96.55' has been resolved to the host name '55.96.76.34.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-16T18:51:57.297502Z 3462 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-16T22:22:11.143545Z 3468 [Warning] [MY-010058] [Server] Hostname 'zg-0930i-185.stretchoid.com' does not resolve to '192.241.221.53'.
+2022-10-16T22:46:30.332625Z 3469 [Warning] [MY-010058] [Server] Hostname 'recyber.net' does not resolve to '89.248.165.21'.
+2022-10-17T00:11:32.326017Z 3470 [Warning] [MY-010055] [Server] IP address '47.101.192.218' could not be resolved: Name or service not known
+2022-10-17T03:04:34.404340Z 3483 [Warning] [MY-010055] [Server] IP address '23.225.180.205' could not be resolved: Name or service not known
+2022-10-17T03:04:47.124375Z 3486 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-17T11:25:56.843189Z 3511 [Warning] [MY-010055] [Server] IP address '45.249.244.84' could not be resolved: Name or service not known
+2022-10-17T11:28:37.806455Z 3512 [Warning] [MY-010055] [Server] IP address '185.167.96.150' could not be resolved: Name or service not known
+2022-10-17T15:58:41.591698Z 3982 [Warning] [MY-010058] [Server] Hostname 'internettl.org' does not resolve to '104.152.52.108'.
+2022-10-17T15:59:38.591082Z 3983 [Warning] [MY-010055] [Server] IP address '211.37.173.210' could not be resolved: Name or service not known
+2022-10-17T17:08:12.836084Z 3995 [Warning] [MY-010055] [Server] IP address '205.210.31.50' could not be resolved: Name or service not known
+2022-10-17T18:38:18.683137Z 4035 [Warning] [MY-010057] [Server] IP address '34.76.96.55' has been resolved to the host name '55.96.76.34.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-17T18:38:19.317244Z 4036 [Warning] [MY-010057] [Server] IP address '34.78.6.216' has been resolved to the host name '216.6.78.34.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-17T18:38:19.989601Z 4036 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-17T22:08:27.793297Z 4041 [Warning] [MY-010055] [Server] IP address '47.92.120.136' could not be resolved: Name or service not known
+2022-10-18T09:17:07.850700Z 4489 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-18T09:39:09.398843Z 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.22).
+2022-10-18T09:39:11.451222Z 0 [Warning] [MY-010909] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin: Forcing close of thread 4400  user: 'webhook'.
+2022-10-18T09:39:11.451400Z 0 [Warning] [MY-010909] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin: Forcing close of thread 4399  user: 'webhook'.
+2022-10-18T09:39:12.884615Z 0 [System] [MY-010910] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2022-10-18T09:39:17.976481Z 0 [System] [MY-010116] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin (mysqld 8.0.22) starting as process 2065
+2022-10-18T09:39:18.001295Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2022-10-18T09:39:18.642347Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2022-10-18T09:39:18.836179Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /tmp/mysqlx.sock
+2022-10-18T09:39:18.910006Z 0 [Warning] [MY-000054] [Server] World-writable config file './auto.cnf' is ignored.
+2022-10-18T09:39:18.910411Z 0 [Warning] [MY-010107] [Server] World-writable config file './auto.cnf' has been removed.
+2022-10-18T09:39:18.910841Z 0 [Warning] [MY-010075] [Server] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: bcf76085-4ec8-11ed-b6a2-00163e0e4028.
+2022-10-18T09:39:18.935077Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2022-10-18T09:39:18.935509Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2022-10-18T09:39:18.940255Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/opt/moodle-3.10.0-0/mysql/data' in the path is accessible to all OS users. Consider choosing a different directory.
+2022-10-18T09:39:18.972896Z 0 [System] [MY-010931] [Server] /opt/moodle-3.10.0-0/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.22'  socket: '/opt/moodle-3.10.0-0/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2022-10-18T10:36:47.969709Z 75 [Warning] [MY-010055] [Server] IP address '71.6.232.26' could not be resolved: Name or service not known
+2022-10-18T11:40:15.111276Z 98 [Warning] [MY-010058] [Server] Hostname 'zg-0930a-62.stretchoid.com' does not resolve to '192.241.216.70'.
+2022-10-18T11:54:36.242785Z 0 [Warning] [MY-010058] [Server] Hostname 'recyber.net' does not resolve to '89.248.163.132'.
+2022-10-18T12:23:32.575478Z 593 [Warning] [MY-010055] [Server] IP address '8.219.71.118' could not be resolved: Name or service not known
+2022-10-18T13:56:50.432427Z 653 [Warning] [MY-010058] [Server] Hostname 'zg-0930a-107.stretchoid.com' does not resolve to '192.241.216.216'.
+2022-10-18T13:58:07.057303Z 654 [Warning] [MY-010055] [Server] IP address '8.219.119.144' could not be resolved: Name or service not known
+2022-10-18T14:04:08.184361Z 657 [Warning] [MY-010056] [Server] Host name 'mail.aeezkpb.cn' could not be resolved: Name or service not known
+2022-10-18T14:25:27.201275Z 0 [Warning] [MY-010055] [Server] IP address '92.63.196.149' could not be resolved: Name or service not known
+2022-10-18T14:40:48.900092Z 0 [Warning] [MY-010055] [Server] IP address '92.63.196.148' could not be resolved: Name or service not known
+2022-10-18T15:58:11.119004Z 1297 [Warning] [MY-010055] [Server] IP address '198.235.24.164' could not be resolved: Name or service not known
+2022-10-18T16:33:19.222084Z 1298 [Warning] [MY-010058] [Server] Hostname 'recyber.net' does not resolve to '89.248.163.217'.
+2022-10-18T16:52:37.961071Z 1302 [Warning] [MY-010058] [Server] Hostname 'recyber.net' does not resolve to '89.248.165.214'.
+2022-10-18T18:05:51.517313Z 1303 [Warning] [MY-010055] [Server] IP address '167.94.145.58' could not be resolved: Name or service not known
+2022-10-18T18:37:13.874072Z 1304 [Warning] [MY-010057] [Server] IP address '34.78.6.216' has been resolved to the host name '216.6.78.34.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-18T18:37:14.458193Z 1305 [Warning] [MY-010057] [Server] IP address '35.233.62.116' has been resolved to the host name '116.62.233.35.bc.googleusercontent.com', which resembles IPv4-address itself.
+2022-10-18T18:37:15.143092Z 1305 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2022-10-19T00:31:02.227292Z 1312 [Warning] [MY-010055] [Server] IP address '47.102.140.201' could not be resolved: Name or service not known
