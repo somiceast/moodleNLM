@@ -315,3 +315,5 @@
 2022-10-18T18:37:14.458193Z 1305 [Warning] [MY-010057] [Server] IP address '35.233.62.116' has been resolved to the host name '116.62.233.35.bc.googleusercontent.com', which resembles IPv4-address itself.
 2022-10-18T18:37:15.143092Z 1305 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
 2022-10-19T00:31:02.227292Z 1312 [Warning] [MY-010055] [Server] IP address '47.102.140.201' could not be resolved: Name or service not known
+2022-10-19T14:23:20.711017Z 2191 [Warning] [MY-010058] [Server] Hostname 'zg-0930b-133.stretchoid.com' does not resolve to '192.241.195.123'.
+2022-10-19T15:21:08.187247Z 2209 [Warning] [MY-010055] [Server] IP address '205.210.31.45' could not be resolved: Name or service not known
