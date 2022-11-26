@@ -10,6 +10,12 @@ $connSQL = new connectSQL();
 $conn = $connSQL->buildsqlconnect();
 
 $wh = new Webhook('newagent-dcry');
+$output = $wh->decodedWebhook->queryResult;
+$wh->respondv1($output);
+
+
+
+//$wh = new Webhook('newagent-igqu');
 //$wh = new Webhook('newagent-mllk');
 $intent = $wh->get_intent();
 $input = $wh->get_query();
