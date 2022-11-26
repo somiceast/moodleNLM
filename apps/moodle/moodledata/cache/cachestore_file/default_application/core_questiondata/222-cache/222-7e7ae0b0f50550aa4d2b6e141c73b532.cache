@@ -1,0 +1,73 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"222";s:8:"category";s:2:"77";s:6:"parent";s:1:"0";s:4:"name";s:8:"警察 3";s:12:"questiontext";s:4887:"<p dir="ltr" style="text-align: left;"><span style="font-size: 1.64062rem;">警察</span><br></p>
+
+<div style="position:relative;">
+    <div style="width:30%; vertical-align:top;">
+        <p><br></p>
+        <p><br></p>
+        <p><br></p>
+        <p><strong>作者的写作目的是什么？
+        </strong></p>
+    </div>
+    <div style="position:absolute;
+                  left:32%;
+                  top:5px;
+                  width:65%;
+                  height: 270px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+      <div dir="ltr" style="text-align: left;background:#cbcbcb">有一桩谋杀案发生，但犯罪嫌疑人否认一切。他声称并不认识受害者，也没走近他半步或接触过他……，但警方和法官都认为他没说实话。但要如何证明呢？
+        </div>
+        <h3 style="text-align: left;">警方的科学武器</h3>
+        <p dir="ltr" style="text-align: left;">在案发现场，调查人员会尽量搜集任何可能的细微证据，像衣物纤维、头发、指纹、烟蒂...在受害者的外套上有几根红色的头发，看起来像是嫌疑犯的。如果能证明这些头发的确是属于他的，那么就能证明他曾经和受害者见面。</p>
+        <h4 style="text-align: left;">每个人都是独一无二的</h4>
+        <p dir="ltr" style="text-align: left;">专家开始工作时，会检验这些头发发根的细胞和嫌疑犯的血液细胞。人体内每一个细胞的细胞核都有DNA。什么是DNA？DNA看起來就像两条缠在一起的珍珠颈链。试着想想，这些珍珠有四种不同的颜色，而成千上万的彩色珍珠（形成基因）会按特殊的顺序串在一起。</p>
+        <p dir="ltr" style="text-align: left;">一个人体内所有细胞的DNA 排列是完全相同的，发根、大拇趾、肝、胃或血液里的DNA都是一样。但是不同人的珍珠排列顺序却是不同的。按这种方法把珍珠串起來，两个人具有同样DNA的可能性很低，除非是完全相同的双胞胎。由于每个人的DNA是独一无二的，因此这是一种基因身份证。</p>
+        <p dir="ltr" style="text-align: left;">因此，遗传学家可以比较嫌疑犯的基因身份证（从血液中抽取的）与那红头发人的基因身份证。如果两者相同，他们就知道嫌疑犯的确曾接近过受害者，纵然嫌犯宣称未见过受害者。</p>
+        <p dir="ltr" style="text-align: left;"></p>
+        <h4>只是一个证据&nbsp;</h4>
+        <p dir="ltr">在谋杀、偷窃及其他罪案中，警方越来越常采用基因分析的方法。为什么呢？就是要找出两个人、两件物体或人与物件曾接触过的证据。若能证实是接触过的，对于调查工作是非常有用的。但它并不足以证明是嫌犯的罪行，这只是众多证据中的其中一个。&nbsp;</p>
+        <div dir="ltr" style="text-align: left;background:#cbcbcb">
+            <h5>我们是由亿万个细胞组成的&nbsp;
+            </h5>
+            <p dir="ltr" style="text-align: left;">所有生物都是由很多细胞构成的。事实上，细胞是非常微小的，只有用显微镜放大百万倍才能看到。每个细胞都有一层外膜和一个细胞核，DNA就在细胞核内。</p>
+        </div>
+        <div dir="ltr" style="text-align: left;background:#bccbc4">
+            <h5>什么是基因？&nbsp;
+            </h5>
+            <p dir="ltr" style="text-align: left;">DNA是由许多基因组合而成的，每个DNA包括成千上万的「珍珠」。这些基因的组合，形成了一个人的基因身份证。</p>
+        </div>
+        <div dir="ltr" style="text-align: left;background:#cbbcc1">
+            <h5>基因身份证是如何显现的？&nbsp;
+            </h5>
+            <p dir="ltr" style="text-align: left;">遗传学家从受害者身上找到的发根或烟蒂上留下的唾液中，抽取少量细胞，并把细胞内DNA周围的物质清除。再把从嫌疑犯血液里抽取的细胞，用同样方法处理。然后将DNA做特别处理以待分析。之后，将它放在特制的凝胶体上，并接通电流通过凝胶体。数小时后，在特别的灯光下，可以看到产生出类似电脑条码的条子（就像产品上的电脑条码）。最后，比对嫌疑犯的条码和在受害者身上找到的DNA条码。</p>
+        </div>
+        <p dir="ltr" style="text-align: center;"><img src="@@PLUGINFILE@@/1.png" alt="王萍" width="700" height="539" class="img-fluid atto_image_button_text-bottom"><br></p>
+        <p dir="ltr" style="text-align: center;">广东省”全省优秀人民警察“王萍利用实验室最新技术手段成功提取关键证据锁定犯罪嫌疑人<br></p>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221123161451+fkEOJV";s:7:"version";s:33:"moodlenlm.xyz+221124114329+IGXDxb";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1669220091";s:12:"timemodified";s:10:"1669290209";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"3";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:3:"134";s:10:"questionid";s:3:"222";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:692;O:8:"stdClass":7:{s:2:"id";s:3:"692";s:8:"question";s:3:"222";s:6:"answer";s:215:"<div style="position:relative;
+                  width:30%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+    <p dir="ltr" style="text-align: left;">警告读者</p>
+</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:693;O:8:"stdClass":7:{s:2:"id";s:3:"693";s:8:"question";s:3:"222";s:6:"answer";s:215:"<div style="position:relative;
+                  width:30%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+    <p dir="ltr" style="text-align: left;">娱乐读者</p>
+</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:694;O:8:"stdClass":7:{s:2:"id";s:3:"694";s:8:"question";s:3:"222";s:6:"answer";s:215:"<div style="position:relative;
+                  width:30%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+    <p dir="ltr" style="text-align: left;">提供资讯</p>
+</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:695;O:8:"stdClass":7:{s:2:"id";s:3:"695";s:8:"question";s:3:"222";s:6:"answer";s:215:"<div style="position:relative;
+                  width:30%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+    <p dir="ltr" style="text-align: left;">说服读者</p>
+</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"77";s:4:"name";s:9:"V3 推理";s:9:"contextid";s:1:"3";s:4:"info";s:101:"<p dir="ltr" style="text-align: left;">我能够比较多个信息来判断作者的意图。<br></p>";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124120918+Ve6ZkC";s:6:"parent";s:1:"3";s:9:"sortorder";s:1:"6";s:8:"idnumber";N;}}

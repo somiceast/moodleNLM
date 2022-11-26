@@ -1,0 +1,43 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"168";s:8:"category";s:2:"69";s:6:"parent";s:1:"0";s:4:"name";s:14:"传统文化 1";s:12:"questiontext";s:1912:"<h3 class="mt5"><strong>
+    文化节目</strong></h3>
+
+<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+<p dir="ltr" style="text-align: left;"><br></p><p dir="ltr" style="text-align: left;"><br></p><p dir="ltr" style="text-align: left;"><br></p><p dir="ltr" style="text-align: left;"><br></p><p dir="ltr" style="text-align: left;"><strong>关于近三年文化节目总产量的说法不正确的是？<br></strong></p>
+
+    </div>
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+<p dir="ltr" style="text-align: left;">近年来在政策的不断驱动下，我国文化类节目迎来了新的繁荣期。2019年正值新中国成立70周年之际，文化类节目自然是各大平台编排中必不可少的内容。为探究文化类节目的走向和新趋势，本文盘点了 2017-2019上半年近三年来的文化类节目的产量。<br></p>
+<p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/1.png" alt="文化类节目总产量" width="597" height="368" class="img-fluid atto_image_button_text-bottom"><br></p>
+<p dir="ltr" style="text-align: left;">文化类节目虽呈现出遍地开花的大好形势，但在题材、表现形式上一直存在较为严重的同质化。据统计，2019上半年文化类节目中前三大题材分别是历史故事、文物、文学，占比都超过了10%；第二梯队为诗词、文化交流和时代故事，其他十余种题材单项占比都没有超过5%。<br></p>
+<p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/2.png" alt="2019题材分布" width="662" height="720" class="img-fluid atto_image_button_text-bottom"><br></p>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221106135449+CsfKFW";s:7:"version";s:33:"moodlenlm.xyz+221125020116+6ymD3b";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667742889";s:12:"timemodified";s:10:"1669341676";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"3";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:2:"93";s:10:"questionid";s:3:"168";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:493;O:8:"stdClass":7:{s:2:"id";s:3:"493";s:8:"question";s:3:"168";s:6:"answer";s:237:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">2019上半年上新节目共有22档<br></p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:494;O:8:"stdClass":7:{s:2:"id";s:3:"494";s:8:"question";s:3:"168";s:6:"answer";s:249:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">2019年上半年文化类节目的产量有39档<br></p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:495;O:8:"stdClass":7:{s:2:"id";s:3:"495";s:8:"question";s:3:"168";s:6:"answer";s:251:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">2018年的文化类节目产量比2019年的更多<br></p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:496;O:8:"stdClass":7:{s:2:"id";s:3:"496";s:8:"question";s:3:"168";s:6:"answer";s:231:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">2017年文化总产量是48档<br></p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"69";s:4:"name";s:8:"V2定位";s:9:"contextid";s:1:"3";s:4:"info";s:144:"<p dir="ltr" style="">我能够根据关键词、关键句、图表标题、表头信息找到多个文字、图表中特定的信息。<br></p>";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124114940+vnfJr5";s:6:"parent";s:1:"3";s:9:"sortorder";s:1:"1";s:8:"idnumber";N;}}

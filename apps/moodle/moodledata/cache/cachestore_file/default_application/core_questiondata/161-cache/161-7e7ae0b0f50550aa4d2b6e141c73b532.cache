@@ -1,0 +1,22 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"161";s:8:"category";s:3:"124";s:6:"parent";s:1:"0";s:4:"name";s:8:"面包 5";s:12:"questiontext";s:1096:"<h3 class="mt5"><strong>马小跳就医</strong></h3>
+
+<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+<p dir="ltr" style="text-align: left;"><br></p><p dir="ltr" style="text-align: left;">营养配餐是一种科学健康的饮食方式，它以科学的营养理论为指导，以达到平衡营养、保持健康的效果。<br></p>
+<p dir="ltr" style="text-align: left;">下午2点马小跳要参加学校举行的运动会，赛前不宜吃太饱，不宜吃难消化类的食物，中午吃什么比较合适？<br></p>
+        <p><strong>漫画中的男生肚子痛的原因是？
+        </strong></p>
+    </div>
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+<img src="@@PLUGINFILE@@/5.png" alt="食物消化时间表
+" width="626" height="344" class="img-fluid atto_image_button_text-bottom">
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221106124152+W8AI5U";s:7:"version";s:33:"moodlenlm.xyz+221125023638+JtJgAl";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667738512";s:12:"timemodified";s:10:"1669343798";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"1";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:2:"87";s:10:"questionid";s:3:"161";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:469;O:8:"stdClass":7:{s:2:"id";s:3:"469";s:8:"question";s:3:"161";s:6:"answer";s:67:"<p dir="ltr" style="text-align: left;">猪肉、面包、牛肉</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:470;O:8:"stdClass":7:{s:2:"id";s:3:"470";s:8:"question";s:3:"161";s:6:"answer";s:67:"<p dir="ltr" style="text-align: left;">鱼头、猪肉、豆浆</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:471;O:8:"stdClass":7:{s:2:"id";s:3:"471";s:8:"question";s:3:"161";s:6:"answer";s:67:"<p dir="ltr" style="text-align: left;">苹果、牛奶、鸡蛋</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:472;O:8:"stdClass":7:{s:2:"id";s:3:"472";s:8:"question";s:3:"161";s:6:"answer";s:67:"<p dir="ltr" style="text-align: left;">苹果、牛奶、面包</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:3:"124";s:4:"name";s:6:"解释";s:9:"contextid";s:1:"1";s:4:"info";s:0:"";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124180303+kt8DhU";s:6:"parent";s:3:"146";s:9:"sortorder";s:1:"2";s:8:"idnumber";N;}}

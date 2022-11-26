@@ -1,0 +1,22 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"706";s:8:"category";s:2:"77";s:6:"parent";s:1:"0";s:4:"name";s:11:"保证书 3";s:12:"questiontext";s:1655:"<p dir="ltr" style="text-align: left;"><span style="font-size: 1.64062rem;">商品产品书</span><br></p>
+<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+        <p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;"><br></span></p>
+        <p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;">右侧图1是莎拉购买新相机的收据，图2是这台相机的保证书。请依据这些记录，回答下列问题。<br></span></p>
+        <p dir="ltr" style="text-align: left;"><strong><span style="font-size: 0.9375rem;">「谢谢您的惠顾」这句话印制在收据的底部。可能是为了礼貌，还可能因为什么?</span><br></strong></p>
+        <p dir="ltr" style="text-align: left;"><strong><span style="font-size: 0.9375rem;"><br></span></strong></p>
+    </div>
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/1.png" alt="相机收据" width="1001" height="551" class="img-fluid atto_image_button_text-bottom"><br></p>
+        <p dir="ltr" style="text-align: left;">上面是莎拉购买新相机的收据，下面是这台相机的保证书。</p>
+        <p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/2.png" alt="保证书" width="981" height="561" class="img-fluid atto_image_button_text-bottom"><br></p>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221125052546+3xfDMg";s:7:"version";s:33:"moodlenlm.xyz+221125052546+yX09kk";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1669353946";s:12:"timemodified";s:10:"1669353946";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"3";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:3:"505";s:10:"questionid";s:3:"706";s:6:"layout";s:1:"0";s:6:"single";s:1:"0";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:2559;O:8:"stdClass":7:{s:2:"id";s:4:"2559";s:8:"question";s:3:"706";s:6:"answer";s:83:"<p dir="ltr" style="text-align: left;">对你展现善意有助于做生意<br></p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.5000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:2560;O:8:"stdClass":7:{s:2:"id";s:4:"2560";s:8:"question";s:3:"706";s:6:"answer";s:82:"<p dir="ltr" style="text-align: left;">他们希望让你觉得自己很特别</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:2561;O:8:"stdClass":7:{s:2:"id";s:4:"2561";s:8:"question";s:3:"706";s:6:"answer";s:85:"<p dir="ltr" style="text-align: left;">他们很高心你购买了他们的相机</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:2562;O:8:"stdClass":7:{s:2:"id";s:4:"2562";s:8:"question";s:3:"706";s:6:"answer";s:70:"<p dir="ltr" style="text-align: left;">他们希望你再度光临</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.5000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"77";s:4:"name";s:9:"V3 推理";s:9:"contextid";s:1:"3";s:4:"info";s:101:"<p dir="ltr" style="text-align: left;">我能够比较多个信息来判断作者的意图。<br></p>";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124120918+Ve6ZkC";s:6:"parent";s:1:"3";s:9:"sortorder";s:1:"6";s:8:"idnumber";N;}}

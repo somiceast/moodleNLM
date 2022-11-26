@@ -1,0 +1,52 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"185";s:8:"category";s:3:"124";s:6:"parent";s:1:"0";s:4:"name";s:8:"劳动 4";s:12:"questiontext";s:2359:"<p dir="ltr"><span style="font-size: 26.2499px;">劳动人口</span></p>
+
+<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+        <p><br></p>
+        <p><br></p>
+<p>假设有关劳动力的信息每年都以上面的树状图的形式呈现。&nbsp;<span style="font-size: 0.9375rem;">下面列出了树形图的四个特征。&nbsp;</span></p>
+<p><span style="font-size: 0.9375rem;">通过拖拽“改变”或“没改变”来表明您认为这些内容每年是否</span><span style="font-size: 0.9375rem;">发生变化。 第一题已为您完成。</span></p>
+<table style="font-size: 0.9375rem;">
+    <thead>
+        <tr>
+            <th scope="col">树状图特色</th>
+            <th scope="col"><br></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><span>1、每个方格内的标示短语</span><span>(如“劳动人口”)</span></td>
+            <td><u>&nbsp;没改变&nbsp;</u></td>
+        </tr>
+        <tr>
+            <td>2、百分率（如“64.2%”）</td>
+            <td>[[2]]</td>
+        </tr>
+        <tr>
+            <td>3、数字（如“2656.5”）</td>
+            <td>[[2]]</td>
+        </tr>
+        <tr>
+            <td>4、树状图下方的注释</td>
+            <td>[[1]]</td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <p dir="ltr" style="text-align: left;">下列树状图显示某个国家劳动人口或“工作年龄人口”的结构。 1995 年，该国的总人口数大约有 340 万。<br></p>
+        <p dir="ltr" style="text-align: left;">截至 1995 年 3 月 31 日的劳动人口结构 (以千为单位)<br></p>
+        <p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/1-1.png" alt="劳动" width="849" height="535" class="img-fluid atto_image_button_text-bottom"><br></p>
+        <p dir="ltr"><br></p>
+        <p dir="ltr">1. 工作年龄人口介于 15 至 65 岁之间。</p>
+        <p dir="ltr">2. “非劳动人口”指那些不积极寻找工作或不能工作的人</p>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:6:"ddwtos";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221106160135+unyaS0";s:7:"version";s:33:"moodlenlm.xyz+221123155609+qWWZ2a";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667750495";s:12:"timemodified";s:10:"1669218969";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"1";s:7:"options";O:8:"stdClass":11:{s:2:"id";s:1:"6";s:10:"questionid";s:3:"185";s:14:"shuffleanswers";s:1:"0";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:14:"shownumcorrect";s:1:"1";s:7:"answers";a:2:{i:549;O:8:"stdClass":7:{s:2:"id";s:3:"549";s:8:"question";s:3:"185";s:6:"answer";s:9:"没改变";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:1;}";s:14:"feedbackformat";s:1:"0";}i:550;O:8:"stdClass":7:{s:2:"id";s:3:"550";s:8:"question";s:3:"185";s:6:"answer";s:6:"改变";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:1;}";s:14:"feedbackformat";s:1:"0";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:3:"124";s:4:"name";s:6:"解释";s:9:"contextid";s:1:"1";s:4:"info";s:0:"";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124180303+kt8DhU";s:6:"parent";s:3:"146";s:9:"sortorder";s:1:"2";s:8:"idnumber";N;}}

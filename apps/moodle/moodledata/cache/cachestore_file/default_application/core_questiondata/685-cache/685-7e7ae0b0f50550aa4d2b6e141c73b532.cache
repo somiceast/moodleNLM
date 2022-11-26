@@ -1,0 +1,31 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"685";s:8:"category";s:2:"76";s:6:"parent";s:1:"0";s:4:"name";s:8:"科幻 5";s:12:"questiontext";s:3585:"<h3 style="text-align: left;"><strong style="font-size: 1.64062rem;">中国科幻电影</strong><br><strong style="font-size: 0.9375rem;"></strong></h3>
+
+<div style="position:relative;">
+    <div style="width:28%; vertical-align:top;">
+        <p><br></p>
+        <p><br></p>
+        <p><br></p>
+        <p><strong>除太阳之外，距离地球最近的一颗恒星是什么？</strong></p>
+    </div>
+    <div style="position:absolute;
+                  left:30%;
+                  top:5px;
+                  width:70%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <h3 style="text-align: left;">观众为什么喜欢看《流浪地球》？</h3>
+        <p dir="ltr" style="text-align: left;">&nbsp;通过对数据分析，发现大众对《流浪地球》的关注点除了技术特效外，还有关注到了中国价值观。该影片让人感叹的不只是炫酷的特效，影片中表现的父子情、祖孙情、兄妹情、战友情、保护家园的精神，不仅推动着剧情的发展，还承载着一种“即便有过隔阂、误解，但终将团结起来共建家园”的希望。<br></p>
+        <p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/3.png" alt="《流浪地球》科幻片" width="801" height="334" class="img-fluid atto_image_button_text-bottom"><br></p>
+        <h3 style="text-align: left;"><span style="font-size: 0.9375rem;"><br></span></h3>
+        <h3>现实元素：影片中的大部分科幻元素都是有现实的科学依据</h3>
+        <h3 style="text-align: left;"><span style="font-size: 0.9375rem;">&nbsp; &nbsp; &nbsp; &nbsp;比如：太阳急剧老化，地球将被太阳吞噬，这些都是有现实的科学依据。</span><br></h3>
+        <p dir="ltr" style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp;那比邻星会是可能的归宿吗？根据科学观测，半人马座的比邻星是除太阳之外距离地球最近的一颗恒星，距离我们4.22光年。2016年年底，科学家们在比邻星周围发现了一颗和地球非常类似的行星，质量大约是地球的1.3倍，位于比邻星的宜居带中。由于比邻星是一颗红矮星，其能量输出不太稳定，经常有超级耀斑爆发现象，使得行星上所接收到的紫外辐射，比地球上用来杀死病菌的紫外线强度还要高出100倍以上，可能并不适合生命在其周围生存。<br></p>
+        <p dir="ltr" style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp;影片中的科学元素还有太阳氦闪、地下城、洛希极限等。诚然，这些科学幻想在以后很长一段时间内可能都无法实现，就连作者刘慈欣也承认作品里不少科学设定存在漏洞。<br></p>
+        <h3 style="text-align: left;">中国风骨：观众为什么喜欢看《流浪地球》？</h3>
+        <p dir="ltr" style="text-align: left;">&nbsp; &nbsp; &nbsp; 《流浪地球》由刘慈欣原著，郭帆导演，吴京特别出演，屈楚萧、李光洁、吴孟达、赵今麦领衔出演。截至5月电影下映，该片内地总票房超46亿元人民币，居中国影史票房第二位，海外票房创下了近5年来中国电影在海外的最好成绩，成为中国电影市场和中国科幻电影史上的现象级大片。<br></p>
+        <p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/4.png" alt="票房" width="801" height="415" class="img-fluid atto_image_button_text-bottom"><br></p>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221125052545+8K1wMX";s:7:"version";s:33:"moodlenlm.xyz+221125052545+h0sSRU";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1669353945";s:12:"timemodified";s:10:"1669353945";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"3";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:3:"488";s:10:"questionid";s:3:"685";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:2463;O:8:"stdClass":7:{s:2:"id";s:4:"2463";s:8:"question";s:3:"685";s:6:"answer";s:52:"<p dir="ltr" style="text-align: left;">红矮星</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:2464;O:8:"stdClass":7:{s:2:"id";s:4:"2464";s:8:"question";s:3:"685";s:6:"answer";s:52:"<p dir="ltr" style="text-align: left;">比邻星</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:2465;O:8:"stdClass":7:{s:2:"id";s:4:"2465";s:8:"question";s:3:"685";s:6:"answer";s:52:"<p dir="ltr" style="text-align: left;">红巨星</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:2466;O:8:"stdClass":7:{s:2:"id";s:4:"2466";s:8:"question";s:3:"685";s:6:"answer";s:55:"<p dir="ltr" style="text-align: left;">半人马座</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"76";s:4:"name";s:9:"V3 解释";s:9:"contextid";s:1:"3";s:4:"info";s:164:"<p dir="ltr" style="text-align: left;">我能够评价图表内容是否完整、评价图表展示信息是否明确，整体内容是否与主题相关。<br></p>";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124120903+G3kbYq";s:6:"parent";s:1:"3";s:9:"sortorder";s:1:"3";s:8:"idnumber";N;}}

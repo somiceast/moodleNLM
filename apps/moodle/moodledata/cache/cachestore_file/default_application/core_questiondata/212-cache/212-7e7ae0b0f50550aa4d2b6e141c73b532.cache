@@ -1,0 +1,410 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"212";s:8:"category";s:2:"38";s:6:"parent";s:1:"0";s:4:"name";s:12:"国际计划";s:12:"questiontext";s:15046:"<h3>国际计划：国际计划活动报告（财政年度1996）</h3>东非和南非区域(RESA)<br>
+<table border="3" cellpadding="0" cellspacing="0" width="792">
+
+    <colgroup>
+        <col width="72" span="11">
+    </colgroup>
+    <tbody>
+        <tr height="19">
+            <td height="19" width="72"></td>
+            <td width="72">埃及</td>
+            <td width="72">埃塞俄比亚</td>
+            <td width="72">肯尼亚</td>
+            <td width="72">马拉维</td>
+            <td width="72">苏丹</td>
+            <td width="72">坦桑尼亚</td>
+            <td width="72">乌干达</td>
+            <td width="72">赞比亚</td>
+            <td width="72">津巴布韦</td>
+            <td width="72">总计</td>
+        </tr>
+        <tr height="19">
+            <td height="19" colspan="10">健康成长</td>
+        </tr>
+        <tr height="19">
+            <td height="19">建有四个或少于四个房间的卫生站</td>
+            <td align="right">1</td>
+            <td align="right">0</td>
+            <td align="right">6</td>
+            <td align="right">0</td>
+            <td align="right">7</td>
+            <td align="right">1</td>
+            <td align="right">2</td>
+            <td align="right">0</td>
+            <td align="right">9</td>
+            <td align="right">26</td>
+        </tr>
+        <tr height="19">
+            <td height="19">卫生员培训课程（一天）</td>
+            <td align="right">1053</td>
+            <td align="right">0</td>
+            <td align="right">719</td>
+            <td align="right">0</td>
+            <td align="right">425</td>
+            <td align="right">1003</td>
+            <td align="right">20</td>
+            <td align="right">80</td>
+            <td align="right">1085</td>
+            <td align="right">4385</td>
+        </tr>
+        <tr height="19">
+            <td height="19">给儿童营养补剂（一星期或以上）</td>
+            <td align="right">10195</td>
+            <td align="right">0</td>
+            <td align="right">2240</td>
+            <td align="right">2400</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">251402</td>
+            <td align="right">266237</td>
+        </tr>
+        <tr height="19">
+            <td height="19">给儿童看医生或牙医的经济援助</td>
+            <td align="right">984</td>
+            <td align="right">0</td>
+            <td align="right">396</td>
+            <td align="right">0</td>
+            <td align="right">305</td>
+            <td align="right">0</td>
+            <td align="right">581</td>
+            <td align="right">0</td>
+            <td align="right">17</td>
+            <td align="right">2283</td>
+        </tr>
+        <tr height="19">
+            <td height="19"></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr height="19">
+            <td height="19" colspan="10">学习</td>
+        </tr>
+        <tr height="19">
+            <td height="19">教师培训课程（一星期）</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">367</td>
+            <td align="right">0</td>
+            <td align="right">970</td>
+            <td align="right">115</td>
+            <td align="right">565</td>
+            <td align="right">0</td>
+            <td align="right">303</td>
+            <td align="right">2320</td>
+        </tr>
+        <tr height="19">
+            <td height="19">购买/募捐练习本</td>
+            <td align="right">667</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">41200</td>
+            <td align="right">0</td>
+            <td align="right">69106</td>
+            <td align="right">0</td>
+            <td align="right">150</td>
+            <td align="right">0</td>
+            <td align="right">111123</td>
+        </tr>
+        <tr height="19">
+            <td height="19">购买/募捐教科书</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">45650</td>
+            <td align="right">9600</td>
+            <td align="right">1182</td>
+            <td align="right">8769</td>
+            <td align="right">7285</td>
+            <td align="right">150</td>
+            <td align="right">58387</td>
+            <td align="right">131023</td>
+        </tr>
+        <tr height="19">
+            <td height="19">购买/募捐/裁制校服</td>
+            <td align="right">8897</td>
+            <td align="right">0</td>
+            <td align="right">5761</td>
+            <td align="right">0</td>
+            <td align="right">2000</td>
+            <td align="right">6040</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">434</td>
+            <td align="right">23132</td>
+        </tr>
+        <tr height="19">
+            <td height="19">资助儿童学费/奖学金</td>
+            <td align="right">12321</td>
+            <td align="right">0</td>
+            <td align="right">1598</td>
+            <td align="right">0</td>
+            <td align="right">154</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">2014</td>
+            <td align="right">16087</td>
+        </tr>
+        <tr height="19">
+            <td height="19">制造/购买/募捐学校书桌</td>
+            <td align="right">3200</td>
+            <td align="right">0</td>
+            <td align="right">3689</td>
+            <td align="right">250</td>
+            <td align="right">1564</td>
+            <td align="right">1725</td>
+            <td align="right">1794</td>
+            <td align="right">0</td>
+            <td align="right">4109</td>
+            <td align="right">16331</td>
+        </tr>
+        <tr height="19">
+            <td height="19">建造永久性教室</td>
+            <td align="right">44</td>
+            <td align="right">0</td>
+            <td align="right">50</td>
+            <td align="right">8</td>
+            <td align="right">93</td>
+            <td align="right">31</td>
+            <td align="right">45</td>
+            <td align="right">0</td>
+            <td align="right">82</td>
+            <td align="right">353</td>
+        </tr>
+        <tr height="19">
+            <td height="19">维修教室</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">34</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">14</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">33</td>
+            <td align="right">81</td>
+        </tr>
+        <tr height="19">
+            <td height="19">成人识字班（本年度举行）</td>
+            <td align="right">1160</td>
+            <td align="right">0</td>
+            <td align="right">3000</td>
+            <td align="right">568</td>
+            <td align="right">3617</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">350</td>
+            <td align="right">8695</td>
+        </tr>
+        <tr height="19">
+            <td height="19"></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr height="19">
+            <td height="19" colspan="10">居住环境</td>
+        </tr>
+        <tr height="19">
+            <td height="19">建造旱厕/水厕</td>
+            <td align="right">50</td>
+            <td align="right">0</td>
+            <td align="right">2403</td>
+            <td align="right">0</td>
+            <td align="right">57</td>
+            <td align="right">162</td>
+            <td align="right">23</td>
+            <td align="right">96</td>
+            <td align="right">4311</td>
+            <td align="right">7102</td>
+        </tr>
+        <tr height="19">
+            <td height="19">装有下水道的房屋</td>
+            <td align="right">143</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">143</td>
+        </tr>
+        <tr height="19">
+            <td height="19">挖掘/改善水井</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">15</td>
+            <td align="right">0</td>
+            <td align="right">7</td>
+            <td align="right">13</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">159</td>
+            <td align="right">194</td>
+        </tr>
+        <tr height="19">
+            <td height="19">挖掘新钻探孔</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">8</td>
+            <td align="right">93</td>
+            <td align="right">14</td>
+            <td align="right">0</td>
+            <td align="right">27</td>
+            <td align="right">0</td>
+            <td align="right">220</td>
+            <td align="right">362</td>
+        </tr>
+        <tr height="19">
+            <td height="19">建造饮水系统</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">28</td>
+            <td align="right">0</td>
+            <td align="right">1</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">29</td>
+        </tr>
+        <tr height="19">
+            <td height="19">维修/改善/饮水系统</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">392</td>
+            <td align="right">0</td>
+            <td align="right">2</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">31</td>
+            <td align="right">425</td>
+        </tr>
+        <tr height="19">
+            <td height="19">国际计划改良的房屋</td>
+            <td align="right">265</td>
+            <td align="right">0</td>
+            <td align="right">520</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">1</td>
+            <td align="right">0</td>
+            <td align="right">2</td>
+            <td align="right">788</td>
+        </tr>
+        <tr height="19">
+            <td height="19">为受惠者建造的新房屋</td>
+            <td align="right">225</td>
+            <td align="right">0</td>
+            <td align="right">596</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">2</td>
+            <td align="right">6</td>
+            <td align="right">0</td>
+            <td align="right">313</td>
+            <td align="right">1142</td>
+        </tr>
+        <tr height="19">
+            <td height="19">建造/维修社区中心</td>
+            <td align="right">2</td>
+            <td align="right">0</td>
+            <td align="right">2</td>
+            <td align="right">0</td>
+            <td align="right">3</td>
+            <td align="right">0</td>
+            <td align="right">3</td>
+            <td align="right">0</td>
+            <td align="right">2</td>
+            <td align="right">12</td>
+        </tr>
+        <tr height="19">
+            <td height="19">社区中心负责人培训课程（一天或以上）</td>
+            <td align="right">2214</td>
+            <td align="right">95</td>
+            <td align="right">3522</td>
+            <td align="right">232</td>
+            <td align="right">200</td>
+            <td align="right">3575</td>
+            <td align="right">814</td>
+            <td align="right">20</td>
+            <td align="right">2693</td>
+            <td align="right">13365</td>
+        </tr>
+        <tr height="19">
+            <td height="19">重修道路长度</td>
+            <td align="right">1.2</td>
+            <td align="right">0</td>
+            <td align="right">26</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">53.4</td>
+            <td align="right">80.6</td>
+        </tr>
+        <tr height="19">
+            <td height="19">修建天桥</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">4</td>
+            <td align="right">2</td>
+            <td align="right">11</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">1</td>
+            <td align="right">18</td>
+        </tr>
+        <tr height="19">
+            <td height="19">受惠家庭</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">1092</td>
+            <td align="right">0</td>
+            <td align="right">1500</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">18405</td>
+            <td align="right">20997</td>
+        </tr>
+        <tr height="19">
+            <td height="19">新供电房屋</td>
+            <td align="right">448</td>
+            <td align="right">0</td>
+            <td align="right">2</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">0</td>
+            <td align="right">44</td>
+            <td align="right">494</td>
+        </tr>
+
+    </tbody>
+</table><br>
+<p></p>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:0;s:7:"penalty";d:0;s:5:"qtype";s:11:"description";s:6:"length";s:1:"0";s:5:"stamp";s:33:"moodlenlm.xyz+221123161451+wyP9pS";s:7:"version";s:33:"moodlenlm.xyz+221124082343+KEIIY2";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1669220091";s:12:"timemodified";s:10:"1669278223";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:2:"66";s:7:"options";O:8:"stdClass":1:{s:7:"answers";a:0:{}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"38";s:4:"name";s:31:"默认 非连阅读能力测评";s:9:"contextid";s:2:"66";s:4:"info";s:69:"场景“非连阅读能力测评”中共享试题的默认类别。";s:10:"infoformat";s:1:"0";s:5:"stamp";s:33:"moodlenlm.xyz+221002075837+ZIX9Vz";s:6:"parent";s:2:"36";s:9:"sortorder";s:1:"2";s:8:"idnumber";N;}}

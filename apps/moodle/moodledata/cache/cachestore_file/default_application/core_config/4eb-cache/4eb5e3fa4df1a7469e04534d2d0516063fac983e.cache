@@ -1,0 +1,5 @@
+a:7:{s:9:"agentname";s:5:"Agent";s:6:"apikey";s:0:"";s:6:"prompt";s:113:"Below is a conversation between a user and a support agent for a Moodle site, where users go for online learning:";s:13:"restrictusage";s:1:"1";s:13:"sourceoftruth";s:56:"Q: Question 1
+A: Answer 1
+
+Q: Question 2
+A: Answer 2";s:8:"username";s:4:"User";s:7:"version";s:10:"2022083100";}

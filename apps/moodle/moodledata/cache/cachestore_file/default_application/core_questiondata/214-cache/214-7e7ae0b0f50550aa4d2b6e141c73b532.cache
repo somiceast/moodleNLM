@@ -1,0 +1,43 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"214";s:8:"category";s:3:"123";s:6:"parent";s:1:"0";s:4:"name";s:11:"保证书 2";s:12:"questiontext";s:1405:"<h3>商品产品书</h3>
+<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+        <p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;"><br></span></p>
+        <p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;"><br></span></p>
+        <p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;"></span></p>
+        <p dir="ltr">右侧图1是莎拉购买新相机的收据，图2是这台相机的保证书。</p><br>请依据这些记录，回答下列问题。<br>
+        <p></p>
+        <p dir="ltr" style="text-align: left;"><strong><span style="font-size: 0.9375rem;">莎拉多久后须寄回这张保证书？</span></strong></p>
+    </div>
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/1.png" alt="相机收据" width="1001" height="551" class="img-fluid atto_image_button_text-bottom"><br></p>
+        <p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/2.png" alt="保证书" width="981" height="561" class="img-fluid atto_image_button_text-bottom"><br></p>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221123161451+0oQqUc";s:7:"version";s:33:"moodlenlm.xyz+221124075730+wWAECj";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1669220091";s:12:"timemodified";s:10:"1669276650";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"1";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:3:"126";s:10:"questionid";s:3:"214";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:659;O:8:"stdClass":7:{s:2:"id";s:3:"659";s:8:"question";s:3:"214";s:6:"answer";s:204:"<div style="position:relative;
+                  width:43%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">8天内</p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:660;O:8:"stdClass":7:{s:2:"id";s:3:"660";s:8:"question";s:3:"214";s:6:"answer";s:204:"<div style="position:relative;
+                  width:43%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">9天内</p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:661;O:8:"stdClass":7:{s:2:"id";s:3:"661";s:8:"question";s:3:"214";s:6:"answer";s:205:"<div style="position:relative;
+                  width:43%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">10天内</p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:662;O:8:"stdClass":7:{s:2:"id";s:3:"662";s:8:"question";s:3:"214";s:6:"answer";s:205:"<div style="position:relative;
+                  width:43%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">11天内</p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:3:"123";s:4:"name";s:6:"定位";s:9:"contextid";s:1:"1";s:4:"info";s:0:"";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124180235+VXQ2Ft";s:6:"parent";s:3:"146";s:9:"sortorder";s:1:"0";s:8:"idnumber";N;}}

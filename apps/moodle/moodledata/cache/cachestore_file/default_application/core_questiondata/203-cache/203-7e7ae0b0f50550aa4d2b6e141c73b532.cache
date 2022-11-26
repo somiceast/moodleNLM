@@ -1,0 +1,36 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"203";s:8:"category";s:2:"78";s:6:"parent";s:1:"0";s:4:"name";s:8:"火星17";s:12:"questiontext";s:2464:"<h3 style="text-align: center;">“好奇者”探测器</h3>
+<p dir="ltr">&nbsp;“好奇者”探测器：同人类一样，“好奇者”拥有不同的身体部位。这些部位可以帮助探测器像人一样探索火星表面。&nbsp;&nbsp;</p>
+<table border="1">
+    <caption style="text-align: center;">好奇者号</caption>
+    <thead>
+        <tr>
+            <th scope="col" style="text-align: center;">部分</th>
+            <th scope="col" style="text-align: center;">介绍</th>
+            <th scope="col" style="text-align: center;">图片</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>手臂和手掌</td>
+            <td>“好奇者”有一条机器人手臂和一只机器人手掌。它可以使用自带的工具来采集火星上岩石和尘土的样本。&nbsp;</td>
+            <td><img src="@@PLUGINFILE@@/curiosity-arm.jpg" alt="手臂" width="500" height="244" class="img-fluid atto_image_button_text-bottom"><br></td>
+        </tr>
+        <tr> </tr>
+        <tr>
+            <td>躯干</td>
+            <td>“好奇者”的躯干部分有许多科学仪器。它甚至可以“吃掉”岩石。“好奇者”手上的工具将岩石样品“咀嚼”成粉末； 然后将粉末倒入体内。接着，它躯干中的仪器会识别岩石是由什么组成的。</td>
+            <td><img src="@@PLUGINFILE@@/curiosity-body.jpg" alt="躯干" width="500" height="244" class="img-fluid atto_image_button_text-bottom"></td>
+        </tr>
+        <tr>
+            <td>眼睛</td>
+            <td>“好奇者”有 17 个摄像头。其中，12个摄像头帮助它“看”前进的方向。其余 5 个摄像头则负责拍照以进行科学调查。</td>
+            <td><img src="@@PLUGINFILE@@/curiosity-eyes.jpg" alt="eyes" width="500" height="244" class="img-fluid atto_image_button_text-bottom"></td>
+        </tr>
+        <tr>
+            <td>车轮和腿</td>
+            <td>“好奇者”有六个轮子和六条腿。当它需要翻越过岩石并且保持不翻车时，这些轮子和腿会帮助它调整平衡。</td>
+            <td><img src="@@PLUGINFILE@@/curiosity-wheels.jpg" alt="腿" width="500" height="244" class="img-fluid atto_image_button_text-bottom"></td>
+        </tr>
+    </tbody>
+</table><strong>【多选题】文中说“好奇者”探测器可以像人类一样探索火星，请选出这样说的理由：</strong><br>
+<p></p>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221111160319+jNyyxZ";s:7:"version";s:33:"moodlenlm.xyz+221111160527+1LDHTJ";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1668182599";s:12:"timemodified";s:10:"1668182727";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"3";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:3:"121";s:10:"questionid";s:3:"203";s:6:"layout";s:1:"0";s:6:"single";s:1:"0";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:630;O:8:"stdClass":7:{s:2:"id";s:3:"630";s:8:"question";s:3:"203";s:6:"answer";s:89:"<p dir="ltr" style="text-align: left;">“好奇者”拥有不同的身体部位<br></p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.3333333";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:631;O:8:"stdClass":7:{s:2:"id";s:3:"631";s:8:"question";s:3:"203";s:6:"answer";s:103:"<p dir="ltr" style="text-align: left;">好奇者号有像人类一样的“咀嚼进食”的功能</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.3333333";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:632;O:8:"stdClass":7:{s:2:"id";s:3:"632";s:8:"question";s:3:"203";s:6:"answer";s:67:"<p dir="ltr" style="text-align: left;">好奇者号有手有脚</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.3333333";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:633;O:8:"stdClass":7:{s:2:"id";s:3:"633";s:8:"question";s:3:"203";s:6:"answer";s:91:"<p dir="ltr" style="text-align: left;">好奇者号有舌头可以品尝石头的味道</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"78";s:4:"name";s:9:"V3 评价";s:9:"contextid";s:1:"3";s:4:"info";s:122:"<p dir="ltr" style="text-align: left;">我能够评价网页中图表或文字对文章主旨的作用、效果。<br></p>";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124120930+DWynTJ";s:6:"parent";s:1:"3";s:9:"sortorder";s:1:"9";s:8:"idnumber";N;}}

@@ -1,0 +1,41 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"166";s:8:"category";s:2:"76";s:6:"parent";s:1:"0";s:4:"name";s:8:"就医 5";s:12:"questiontext";s:2455:"<h3 class="mt5"><strong>马小跳就医</strong></h3>
+
+<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+        <p><br></p><p><br></p><p><br></p>
+        <p><strong>马小跳今年13岁，请问服用整肠生的用法用量是什么样的？
+
+        </strong></p>
+    </div>
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 250px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <h3 style="text-align: left;">儿童年龄范围</h3>
+        <p dir="ltr" style="text-align: left;">1991年12月29日第七届全国人民代表大会常务委员会第23次会议决定批准中国加入《儿童权利公约》，根据公约内的内容，公约将“儿童”界定为“18岁以下的任何人”。我国法律根据《中华人民共和国未成年儿童保护法》以及《联合国儿童权利公约》规定，儿童是指“18岁”以下的任何人。而医学界将儿童年龄阶段规定为：14岁以下作为医学观察年龄段。<br></p>
+        <h3 style="text-align: left;">如何与医生沟通？</h3>
+        <div>
+            <div class="dhc" data-style="none">
+                <div>
+                    <span style="background-color: rgba(255, 0, 0, 0);">1、要向医生讲清楚自己就诊的不适症状发生的时间、先后顺序、演变过程、相关因素等；</span><br>
+                </div>
+                <div>2、讲清自己以往的病情和治疗情况。
+                </div>
+                <div>3、讲清以前及现在的用药情况及是否有过敏史；
+                </div>
+                <div>4、提前准备好自己对病情的疑问，及时请教，对结果的异常指标及时向医生问清楚原因及如何处理。
+                </div>
+
+            </div>
+            <h3 style="text-align: left;"><br></h3>
+            <h3 style="text-align: left;">用药我知道</h3>
+            <p><img src="@@PLUGINFILE@@/5-1%20%281%29.png" alt="整肠生" width="526" height="314" class="img-fluid atto_image_button_text-bottom"><img src="@@PLUGINFILE@@/5.png" alt="胶囊" width="151" height="85" style="font-size: 0.9375rem;" class="img-fluid atto_image_button_text-bottom"><br></p>
+            <p><br></p>
+        </div>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221106133717+r0pKYP";s:7:"version";s:33:"moodlenlm.xyz+221125015836+gjET2O";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667741837";s:12:"timemodified";s:10:"1669341516";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"3";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:2:"92";s:10:"questionid";s:3:"166";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:489;O:8:"stdClass":7:{s:2:"id";s:3:"489";s:8:"question";s:3:"166";s:6:"answer";s:70:"<p dir="ltr" style="text-align: left;">一次两粒，一日三次</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:490;O:8:"stdClass":7:{s:2:"id";s:3:"490";s:8:"question";s:3:"166";s:6:"answer";s:70:"<p dir="ltr" style="text-align: left;">一次两粒，一日两次</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:491;O:8:"stdClass":7:{s:2:"id";s:3:"491";s:8:"question";s:3:"166";s:6:"answer";s:70:"<p dir="ltr" style="text-align: left;">一次一粒，一日三次</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:492;O:8:"stdClass":7:{s:2:"id";s:3:"492";s:8:"question";s:3:"166";s:6:"answer";s:70:"<p dir="ltr" style="text-align: left;">一次一粒，一日两次</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"76";s:4:"name";s:9:"V3 解释";s:9:"contextid";s:1:"3";s:4:"info";s:164:"<p dir="ltr" style="text-align: left;">我能够评价图表内容是否完整、评价图表展示信息是否明确，整体内容是否与主题相关。<br></p>";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124120903+G3kbYq";s:6:"parent";s:1:"3";s:9:"sortorder";s:1:"3";s:8:"idnumber";N;}}

@@ -1,0 +1,46 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"172";s:8:"category";s:2:"69";s:6:"parent";s:1:"0";s:4:"name";s:14:"传统文化 4";s:12:"questiontext";s:2539:"<h3 class="mt5"><strong>
+    文化节目</strong></h3>
+
+<div style="position:relative;">
+    <div style="width:30%; vertical-align:top;">
+        <p><br></p>
+        <p><br></p>
+        <p><br></p>
+        <p><strong>让《国家宝藏》真正震撼观众心灵的是
+        </strong></p>
+    </div>
+    <div style="position:absolute;
+                  left:32%;
+                  top:5px;
+                  width:66%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <div class="dhc" data-style="none">
+            <div>
+                <span style="background-color: rgba(255, 0, 0, 0);"><strong>【材料一】节目简介</strong></span><br>
+            </div>
+            <div>&nbsp; &nbsp; &nbsp; 《国家宝藏》是中央电视台在2017年第四季度退出的一档文物介绍的节目。该节目联合了故宫博物院、河南博物院、陕西历史博物院等9大博物馆，推选出27件国宝。
+            </div>
+            <div><br></div>
+            <div><br></div>
+            <div><strong>【材料二】《国家宝藏》出彩之处
+</strong></div>
+            <div>&nbsp; &nbsp; &nbsp; &nbsp; 明星也许是触发年轻人观看节目的理由。《国家宝藏》中，每期会邀请三位明星通过小剧场的精彩演绎，以轻松有趣的方式讲述国宝的故事，一下子拉近了节目与年轻人之间的距离。
+            </div>
+            <div>&nbsp; &nbsp; &nbsp; &nbsp; 如果仅仅是因为明星的助演，《国家宝藏》不至于震撼观众的心灵。每件文物在节目中都有“前世”和“今生”故事，那些不为大众熟知的制作工艺和故事，才让国宝活了起来。<span style="background-color: rgba(255, 0, 0, 0);">如：展示《千里江山图》时，节目特意请来了非物质文化遗产国画颜料制作唯一传人仇庆年先生，展示国画颜料独特的、精益求精的制作工艺，让大家深入认识文物。</span>
+            </div>
+            <div>（选自《华商报》，有改动）
+            </div>
+            <div><br></div>
+            <div><br></div>
+            <div><strong>【材料三】不同的声音
+</strong></div>
+            <div><img src="@@PLUGINFILE@@/2-1.png" alt="微博" width="843" height="496" class="img-fluid atto_image_button_text-bottom"><br></div>
+            <div>
+            </div>
+        </div>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221106140648+zXcyuF";s:7:"version";s:33:"moodlenlm.xyz+221125020709+H9Y6HW";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667743608";s:12:"timemodified";s:10:"1669342029";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"3";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:2:"96";s:10:"questionid";s:3:"172";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:505;O:8:"stdClass":7:{s:2:"id";s:3:"505";s:8:"question";s:3:"172";s:6:"answer";s:74:"<p dir="ltr" style="text-align: left;">精美的节目制作&nbsp;<br></p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:506;O:8:"stdClass":7:{s:2:"id";s:3:"506";s:8:"question";s:3:"172";s:6:"answer";s:77:"<p dir="ltr" style="text-align: left;">主持人有趣的讲解&nbsp;<br></p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:507;O:8:"stdClass":7:{s:2:"id";s:3:"507";s:8:"question";s:3:"172";s:6:"answer";s:74:"<p dir="ltr" style="text-align: left;">明星精彩的演技&nbsp;<br></p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:508;O:8:"stdClass":7:{s:2:"id";s:3:"508";s:8:"question";s:3:"172";s:6:"answer";s:74:"<p dir="ltr" style="text-align: left;">制作工艺的形象展示<br></p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"69";s:4:"name";s:8:"V2定位";s:9:"contextid";s:1:"3";s:4:"info";s:144:"<p dir="ltr" style="">我能够根据关键词、关键句、图表标题、表头信息找到多个文字、图表中特定的信息。<br></p>";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124114940+vnfJr5";s:6:"parent";s:1:"3";s:9:"sortorder";s:1:"1";s:8:"idnumber";N;}}

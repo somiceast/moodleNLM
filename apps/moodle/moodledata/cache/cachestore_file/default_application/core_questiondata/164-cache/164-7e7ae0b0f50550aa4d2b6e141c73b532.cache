@@ -1,0 +1,64 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"164";s:8:"category";s:3:"124";s:6:"parent";s:1:"0";s:4:"name";s:8:"就医 3";s:12:"questiontext";s:2536:"<h3 class="mt5"><strong>马小跳就医</strong></h3>
+
+<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+        <p dir="ltr" style="text-align: left;">马小跳走到就诊科室的门口，发现墙壁上挂着关于肠胃的健康宣传栏。<br></p>
+        <p dir="ltr" style="text-align: left;">看着这这幅宣传栏上的图画和文字，马小跳想起了前段时间学校发生一次群体性腹泻的事件。经过调查后发现，原来食堂里的四季豆没有煮熟，含有皂荚类的蔬菜未经过煮熟很容易产生腹泻、恶心、呕吐等症状。这和健康宣传栏上所说的几乎一样。<br></p>
+        <p><strong>漫画中的男生肚子痛的原因是？
+        </strong></p>
+    </div>
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <div>
+
+            <table border="1">
+                <tbody>
+                    <tr>
+                        <td colspan="2" style="text-align: center;">
+                            <h3><strong>健康宣传栏</strong></h3>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;"><img src="@@PLUGINFILE@@/%E8%82%A0%E9%81%93%E4%BC%A0%E6%9F%93%E7%97%85.jpg" alt="肠道" width="197" height="256" class="img-fluid atto_image_button_text-bottom">
+                        </td>
+                        <td><img src="@@PLUGINFILE@@/4.png" alt="肠道" width="500" height="330" class="img-fluid atto_image_button_text-bottom">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>肠道传染病是由多种细菌和病菌感染引起的以消化道症状为主的传染性疾病。病人或病原携带者的粪便、呕吐物排入水源，洗涤被该病原体污染的衣裤、器具、手等可使水受到污染。
+                        </td>
+                        <td>当发生腹泻、恶心、呕吐等肠道症状时，要及时去就近的医疗机构诊断和治疗。出现群体肠道传染病现象，应在去医院的同时及时像疾病预防控制中心报告，并保留残留食物。</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221106131446+RxAWSl";s:7:"version";s:33:"moodlenlm.xyz+221125015504+3OBE5E";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667740486";s:12:"timemodified";s:10:"1669341304";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"1";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:2:"90";s:10:"questionid";s:3:"164";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:481;O:8:"stdClass":7:{s:2:"id";s:3:"481";s:8:"question";s:3:"164";s:6:"answer";s:209:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">缺乏锻炼</p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:482;O:8:"stdClass":7:{s:2:"id";s:3:"482";s:8:"question";s:3:"164";s:6:"answer";s:212:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">吃了西红柿</p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:483;O:8:"stdClass":7:{s:2:"id";s:3:"483";s:8:"question";s:3:"164";s:6:"answer";s:199:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">冰镇啤酒和西瓜一起食用引发腹泻
+</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:484;O:8:"stdClass":7:{s:2:"id";s:3:"484";s:8:"question";s:3:"164";s:6:"answer";s:209:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">没吃早餐</p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:3:"124";s:4:"name";s:6:"解释";s:9:"contextid";s:1:"1";s:4:"info";s:0:"";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124180303+kt8DhU";s:6:"parent";s:3:"146";s:9:"sortorder";s:1:"2";s:8:"idnumber";N;}}

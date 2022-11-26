@@ -1,0 +1,72 @@
+O:8:"stdClass":24:{s:2:"id";s:2:"89";s:8:"category";s:2:"76";s:6:"parent";s:1:"0";s:4:"name";s:7:"涂鸦1";s:12:"questiontext";s:3441:"<h3 class="mt5">
+    涂鸦</h3>
+
+<div style="position:relative;">
+    <div style="width:27%; vertical-align:top;">
+        右侧是关于涂鸦的两封信来自网络评论。</div>
+    <div style="width:27%; vertical-align:top;">涂鸦是不符合规范且未经许可地在墙壁和其他地方绘画和书写。 请根据上面两封信来回答以下问题。</div>
+    <div style="width:27%; vertical-align:top;"><br></div>
+    <div style="width:27%; vertical-align:top;">&nbsp;<strong>这两封信的目的是什么？
+    </strong></div>
+    <div style="position:absolute;
+                  left:30%;
+                  top:5px;
+                  width:70%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <table border="1" style="border-width:5px;border-style:hidden">
+            <thead>
+                <tr>
+                    <td width="40%" style="border-width:5px; padding:5px">
+
+
+
+                        <p>为了去掉墙上的涂鸦，这次已经是第四次清洗学校墙壁，这真的使我气极了。创作本例是值得欣赏的，但创作的方式不应该为社会带来额外的开支。</p>
+                        <p>为什么要在禁止涂鸦的地方乱画东西，损坏年轻人的声誉？专业的艺术家不会把自己的作品挂在大街上，对吧？相反的，他们会透过合法的展览来赚取收入和名声。</p>
+                        <p>我认为楼房、墙壁和公园的长椅本身就是艺术品了，在它们上面涂鸦只会破坏它们的风格，而且，这样做更会破坏臭氧层。我真不明白这些可耻的艺术家为什么在其“艺术品”被一次又一次地清理后，还要不断地乱涂乱画。&nbsp;</p>
+                        <p style="text-align: right;">小佳&nbsp; &nbsp;&nbsp;</p>
+
+
+
+
+                    </td>
+                    <td width="60%" scope="col" style="border-width:5px; padding:5px">
+                        <p>品味是无法言喻的。</p>
+                        <p>社会上充满了各种各样的沟通方式和广告宣传，如公司的标志、店名，还有矗立在大街两旁各种恼人的大型广告牌。它们是否被大众接受？没错，大多数是的，而涂鸦是否被大众接受？有些人会接受，但很多人都不能接受。</p>
+                        <p>谁应该负担涂鸦引起的费用？谁来负担广告的费用？对，消费者。</p>
+                        <p>那些树立起广告牌的人有没有事先向你请示？当然没有。那么涂鸦的人应该事先请示呢？你的名字、组织的名字以及街上那些大型涂鸦艺术品，这些不都只是沟通方式吗？</p>
+                        <p>想想数年前在商店里出现的条纹和格子花服装，还有滑雪服。这些服装的图案和颜色就是直接从多姿多彩的墙上偷来的。可笑的是，这些图案和颜色竟然欣然接受，但是那些有同样特色的涂鸦却被认为是令人讨厌的。</p>
+                        <p>现在要做艺术可真不容易。</p>
+                        <p style="text-align: right;">小雅&nbsp; &nbsp;&nbsp;</p>
+
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221002075837+fS2Rrv";s:7:"version";s:33:"moodlenlm.xyz+221124112719+qfZf6r";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1664697517";s:12:"timemodified";s:10:"1669289239";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"3";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:2:"45";s:10:"questionid";s:2:"89";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:203;O:8:"stdClass":7:{s:2:"id";s:3:"203";s:8:"question";s:2:"89";s:6:"answer";s:182:"<div style="position:relative;
+                  width:25%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+    解释什么是涂鸦。</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:204;O:8:"stdClass":7:{s:2:"id";s:3:"204";s:8:"question";s:2:"89";s:6:"answer";s:188:"<div style="position:relative;
+                  width:25%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+    提出关于涂鸦的意见。</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:205;O:8:"stdClass":7:{s:2:"id";s:3:"205";s:8:"question";s:2:"89";s:6:"answer";s:188:"<div style="position:relative;
+                  width:25%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+    展示涂鸦的流行程度。</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:206;O:8:"stdClass":7:{s:2:"id";s:3:"206";s:8:"question";s:2:"89";s:6:"answer";s:200:"<div style="position:relative;
+                  width:25%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+    告诉人们清除涂鸦花了多少钱。</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"76";s:4:"name";s:9:"V3 解释";s:9:"contextid";s:1:"3";s:4:"info";s:164:"<p dir="ltr" style="text-align: left;">我能够评价图表内容是否完整、评价图表展示信息是否明确，整体内容是否与主题相关。<br></p>";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124120903+G3kbYq";s:6:"parent";s:1:"3";s:9:"sortorder";s:1:"3";s:8:"idnumber";N;}}

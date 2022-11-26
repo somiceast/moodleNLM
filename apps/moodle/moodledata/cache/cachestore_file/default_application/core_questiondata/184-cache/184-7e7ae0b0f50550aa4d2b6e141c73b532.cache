@@ -1,0 +1,32 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"184";s:8:"category";s:3:"126";s:6:"parent";s:1:"0";s:4:"name";s:8:"劳动 3";s:12:"questiontext";s:2085:"<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+        <h3>劳动人口<br></h3>
+        <p><br></p>
+        <p dir="ltr" style="text-align: left;">下表所列的人物属于树形图中哪一种类？<span style="font-size: 0.9375rem;">在下表的每条陈述后面补充。</span></p>
+        <p dir="ltr">你可以参考第1题作答。</p>
+        <p dir="ltr" style="text-align: left;">1.兼职服务生，35岁&nbsp; <u>&nbsp;属于在职劳动人口&nbsp;&nbsp;</u></p>
+        <p dir="ltr" style="text-align: left;">2.商界女性，每星期工作60小时，43岁[[1]]</p>
+        <p dir="ltr" style="text-align: left;">3.全职学生，21岁[[3]]</p>
+        <p dir="ltr">4.一名刚刚卖掉店铺，正寻找工作的男子，28 岁[[2]]</p>
+        <p dir="ltr">5.一名从来未做过工，也从未想过要寻找工作的女子，55 岁[[3]]</p>
+        <p dir="ltr">6.一名 80 岁的祖母，每天仍会在家庭作坊中工作数小时[[4]]</p>
+        <p dir="ltr" style="text-align: left;"><br></p>
+
+    </div>
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 350px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <p dir="ltr" style="text-align: left;">下列树状图显示某个国家劳动人口或“工作年龄人口”的结构。 1995 年，该国的总人口数大约有 340 万。<br></p>
+        <p dir="ltr" style="text-align: left;">截至 1995 年 3 月 31 日的劳动人口结构 (以千为单位)<br></p>
+        <p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/1-1.png" alt="劳动" width="849" height="535" class="img-fluid atto_image_button_text-bottom"><br></p>
+        <p dir="ltr"><br></p>
+        <p dir="ltr">1. 工作年龄人口介于 15 至 65 岁之间。</p>
+        <p dir="ltr">2. “非劳动人口”指那些不积极寻找工作或不能工作的人</p>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:6:"ddwtos";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221106154630+OaIlL7";s:7:"version";s:33:"moodlenlm.xyz+221123160002+JWnxzh";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667749590";s:12:"timemodified";s:10:"1669219202";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"1";s:7:"options";O:8:"stdClass":11:{s:2:"id";s:1:"5";s:10:"questionid";s:3:"184";s:14:"shuffleanswers";s:1:"0";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:14:"shownumcorrect";s:1:"1";s:7:"answers";a:4:{i:545;O:8:"stdClass":7:{s:2:"id";s:3:"545";s:8:"question";s:3:"184";s:6:"answer";s:24:"属于在职劳动人口";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:1;}";s:14:"feedbackformat";s:1:"0";}i:546;O:8:"stdClass":7:{s:2:"id";s:3:"546";s:8:"question";s:3:"184";s:6:"answer";s:24:"属于待业劳动人口";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:1;}";s:14:"feedbackformat";s:1:"0";}i:547;O:8:"stdClass":7:{s:2:"id";s:3:"547";s:8:"question";s:3:"184";s:6:"answer";s:21:"不属于劳动人口";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:1;}";s:14:"feedbackformat";s:1:"0";}i:548;O:8:"stdClass":7:{s:2:"id";s:3:"548";s:8:"question";s:3:"184";s:6:"answer";s:21:"不属于任何一类";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:62:"O:8:"stdClass":2:{s:9:"draggroup";s:1:"1";s:8:"infinite";b:1;}";s:14:"feedbackformat";s:1:"0";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:3:"126";s:4:"name";s:6:"评价";s:9:"contextid";s:1:"1";s:4:"info";s:0:"";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124180324+Qgv2JX";s:6:"parent";s:3:"146";s:9:"sortorder";s:1:"3";s:8:"idnumber";N;}}

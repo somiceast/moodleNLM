@@ -1,0 +1,54 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"690";s:8:"category";s:2:"80";s:6:"parent";s:1:"0";s:4:"name";s:13:"远程办公1";s:12:"questiontext";s:3052:"<h3>远程工作</h3>
+<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+        <p>使用上面的“远程办公”来回答以下问题。</p>
+        <p><span style="font-size: 0.9375rem;"><strong><br></strong></span></p>
+        <p><span style="font-size: 0.9375rem;"><strong><br></strong></span></p>
+        <p><span style="font-size: 0.9375rem;"><strong>上述二人意见有什么关系？</strong></span></p>
+    </div>
+
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 240px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <h3>未来之路</h3>
+
+        <p>试想一下，您所有工作都可以在<span style="font-size: 0.9375rem;">家完成，</span><span style="font-size: 0.9375rem;">那将是多么美妙！<span>你可以</span><span><span>在自己的空间里感到舒适，而且工作时间灵活，可以提高工作效率和创造力。</span></span>不再需要挤公交、地铁，不必浪费时间上下班。<span style="font-size: 0.9375rem;">有了远程办公这种方式，员工在出差或销售出差时可以访问必要的数据和工具——这样可以确保其无论身处何处都能获得所需的一切，使员工出色完成工作。</span></span>
+        </p>
+        <p style="text-align: right;"><span style="font-size: 0.9375rem;">莫莉</span><span style="font-size: 0.9375rem;"><br></span></p>
+
+        <p><strong>挑战来临<span lang="EN-US"></span></strong></p>
+
+        <p>减少通勤时间并减少所涉及的能源消耗显然是一个好主意。但这样的目标应该通过改善公共交通或确保工作场所位于人们居住的地方附近来实现。远程办公真的有必要成为每个人生活方式的一部分吗？线上开会让会议变得更加冗长，简直要被视频会议软件“绑架”。<span lang="EN-US"></span></p>
+
+        <p style="text-align: right;">理查德<span lang="EN-US"></span></p>
+
+        <p><span style="font-size: 0.9375rem;">这里讲的远程办公，包含远程办公、居家办公、混合办公等多种模式。远程办公的出现，是数字时代工作方式革新的结果。从最初的电报、电话和传真，到互联网、宽带和个人电脑，到移动互联网、4G和智能手机，再到当下的在线办公、共享文档、在线会议、视频面试和直播软件等，科技发展促使远程办公成为对工作方式的重要革新。因防疫封锁让世界各地的许多企业和员工几乎是在一夜之间开启了长达数月的居家办公生活，这种办公模式因为工作时间、地点、方式等较为弹性，近年来颇受关注，不少公司甚至已将居家办公作为一种员工福利。但也有人抱怨居家办公等于七天24小时无限办公，也有人如鱼得水，认为效率得到提高。</span><br></p>
+
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221125052545+YVCn7C";s:7:"version";s:33:"moodlenlm.xyz+221125052545+MHwoF8";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1669353945";s:12:"timemodified";s:10:"1669353945";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"3";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:3:"493";s:10:"questionid";s:3:"690";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:2487;O:8:"stdClass":7:{s:2:"id";s:4:"2487";s:8:"question";s:3:"690";s:6:"answer";s:214:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+他们使用不同的论据来得出相同的一般结论。</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:2488;O:8:"stdClass":7:{s:2:"id";s:4:"2488";s:8:"question";s:3:"690";s:6:"answer";s:202:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+它们的风格相同，但主题完全不同。</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:2489;O:8:"stdClass":7:{s:2:"id";s:4:"2489";s:8:"question";s:3:"690";s:6:"answer";s:217:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+他们表达相同的一般观点，但得出不同的结论。</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:2490;O:8:"stdClass":7:{s:2:"id";s:4:"2490";s:8:"question";s:3:"690";s:6:"answer";s:199:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+他们对同一主题表达相反的观点。</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"80";s:4:"name";s:9:"V4 理解";s:9:"contextid";s:1:"3";s:4:"info";s:119:"<p dir="ltr" style="text-align: left;">我能够理解并展示多个阅读材料中的信息之间的关系。<br></p>";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124121012+FgRgIM";s:6:"parent";s:1:"3";s:9:"sortorder";s:1:"4";s:8:"idnumber";N;}}

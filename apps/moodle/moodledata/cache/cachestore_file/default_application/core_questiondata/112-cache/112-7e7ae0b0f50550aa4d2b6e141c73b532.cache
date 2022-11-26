@@ -1,0 +1,39 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"112";s:8:"category";s:2:"38";s:6:"parent";s:1:"0";s:4:"name";s:6:"牛奶";s:12:"questiontext";s:3286:"<div>
+    <ul>
+        <li><a href="#view1">农场到市场</a></li>
+    </ul>
+    <div>
+        <div>
+            <div id="browserHeader" style="background-image:url(https://pisa2018-questions.oecd.org/platform/unit/REA/R557-CowsMilk/zho-CHN/image/WebPageHeader.png)">
+                <span id="urlTxt" style="padding-left: 78px;">www.farmtomarketdairy.com</span></div>
+            <div id="browserPage" style="">
+                <div style="background: #66acc1;">
+                    <div>
+                        <h3 style="color:white;"><strong>&nbsp; &nbsp;农场到市场乳制品&nbsp;</strong></h3>
+                    </div>
+                    <div style="background:#668ac1;">
+                        <span style="color:white;">&nbsp; &nbsp; &nbsp;关于我们</span>
+                        <span style="color:white;">产品</span>
+                        <span style="color:black;"><strong>营养</strong></span>
+                    </div>
+                </div>
+
+                <div style="color: black; margin: 0px; border: 0px; outline: 0px; font-size: 100%; font-family: inherit; vertical-align: baseline; padding: 13px 20px 0px;" id="wpBody">
+                    <h1 id="pg1Title1" style="font-style: inherit;"><strong>牛奶的营养价值：<em style="">益处多多！</em></strong></h1>
+                    <p id="pg1p1" style="font-weight: inherit; font-style: inherit;">“农场到市场乳制品”的牛奶制品包含重要营养素：钙、蛋白质、维生素D、维生素B12、核黄素和钾。 这些维生素和矿物质让“农场到市场乳制品”的牛奶制品成为健康饮食的重要部分。 每天食用“农场到市场乳制品”的牛奶制品，是确保您获得身体所需维生素和矿物质的一个好方法。 </p>
+
+                    <p id="pg1p2" style="font-weight: inherit; font-style: inherit;">食用“农场到市场乳制品”的牛奶制品有助于减肥，维持健康体重。 牛奶会增加骨骼强度和密度， 甚至可以改善心血管健康，有助于预防癌症。 一杯牛奶盛着的，是丰富的维生素、矿物质和丰富的健康效益。</p>
+
+                    <p id="pg1p3" style="font-weight: inherit; font-style: inherit;">根据加州大学欧文分校儿科临床副教授希尔斯医生的说法，牛奶集合了许多重要营养元素。 国际乳制品产业协会（IDFA）支持这个观点。 实际上，IDFA估计许多保健专业人士和团体也会同意。</p>
+
+                    <p id="pg1p4" style="font-weight: inherit;"><em>“牛奶含有九种基本营养素，是完整的营养组合。 牛奶除了是钙和维生素D的绝佳来源外，也含丰富的维生素A、蛋白质和钾。 医生都建议多食用乳制品， 乳制品在健康饮食中的作用早已得到营养和科学团体的确认， 包括美国国家骨质疏松症基金会、美国医务卫生总监、美国国立卫生研究院、美国医学学会科学事务理事会和许多其他重要的健康组织。”</em></p>
+
+                    <p id="pg1p5" style="font-weight: inherit; font-style: inherit;">国际乳制品产业协会，2007年9月27日</p>
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:0;s:7:"penalty";d:0;s:5:"qtype";s:11:"description";s:6:"length";s:1:"0";s:5:"stamp";s:33:"moodlenlm.xyz+221030040727+8y3xEI";s:7:"version";s:33:"moodlenlm.xyz+221030041815+YnLWQn";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667102847";s:12:"timemodified";s:10:"1667103495";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:2:"66";s:7:"options";O:8:"stdClass":1:{s:7:"answers";a:0:{}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"38";s:4:"name";s:31:"默认 非连阅读能力测评";s:9:"contextid";s:2:"66";s:4:"info";s:69:"场景“非连阅读能力测评”中共享试题的默认类别。";s:10:"infoformat";s:1:"0";s:5:"stamp";s:33:"moodlenlm.xyz+221002075837+ZIX9Vz";s:6:"parent";s:2:"36";s:9:"sortorder";s:1:"2";s:8:"idnumber";N;}}

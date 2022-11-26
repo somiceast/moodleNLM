@@ -1,0 +1,69 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"146";s:8:"category";s:3:"123";s:6:"parent";s:1:"0";s:4:"name";s:17:"乘坐公交车 4";s:12:"questiontext";s:5490:"<p dir="ltr" style="text-align: left;"><strong style="font-size: 1.64062rem;">马小跳的威海之旅</strong><br></p>
+
+<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+        <p><strong style="font-size: 0.9375rem;"><br></strong></p>
+        <p><span style="font-size: 0.9375rem;">这是马小跳的威海之旅，但他遇到了一些困难需要你的帮助，请你帮他找到解决问题的答案。<span style="">如果你很顺利地解决了这些问题，马小跳将会非常感谢你对他的帮助！</span></span><br></p>
+        <p><strong>从<u>华田小区</u>到<u>金猴集团</u>站要乘车[[1]]路公交车，途径[[3]]个站点。
+        </strong></p>
+    </div>
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <p dir="ltr" style="text-align: left;"><span style="font-size: 1.64062rem;">威海市介绍</span><br></p>
+        <p dir="ltr" style="text-align: left;"><strong><span style="font-size: 0.9375rem;"></span></strong></p>
+        <table border="1">
+            <tbody>
+                <tr>
+                    <td>中文名</td>
+                    <td>威海</td>
+                    <td>气候条件</td>
+                    <td>温带季风气候</td>
+                </tr>
+                <tr>
+                    <td>别名</td>
+                    <td>威海卫</td>
+                    <td>著名景点</td>
+                    <td>刘公岛、城头山、国际海洋浴场、赤山、银滩、华夏城、天鹅湖。</td>
+                </tr>
+                <tr>
+                    <td>车牌代码</td>
+                    <td>鲁K</td>
+                    <td>地理位置</td>
+                    <td>山东半岛东端</td>
+                </tr>
+                <tr>
+                    <td>行政区划代码</td>
+                    <td>371000</td>
+                    <td>机场</td>
+                    <td>威海市国际机场</td>
+                </tr>
+                <tr>
+                    <td>面积</td>
+                    <td>5799.84km</td>
+                    <td>火车站</td>
+                    <td>威海站、威海北站、文登东站、荣城站</td>
+                </tr>
+            </tbody>
+        </table>
+        <p></p>
+        <p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;">位于中国华东地区、山东半岛东端，北、东、南三面滨临黄海，北与辽东半岛相对，东与朝鲜半岛隔海相望，西与山东烟台接壤。东西最大横距135千米，南北最大纵距81千米，海岸线长985.9千米。威海取威震海疆之意，别名威海卫。威海是中国大陆距离韩国首尔最近的城市、中国近代第一支海军北洋海军的发源地、甲午海战的发生地，甲午战争后被列强侵占并回归祖国的“七子”之一。<br></span></p>
+        <p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;"><img src="@@PLUGINFILE@@/1-1.jpg" alt="威海地图" width="729" height="450" class="img-fluid atto_image_button_text-bottom"><br></span></p>
+        <h3 style="text-align: left;"><strong>景点介绍</strong></h3>
+        <div>
+            <div style="text-align: center;">&nbsp; &nbsp; <span><strong>&nbsp; 威海市著名的两大景点</strong></span>
+            </div>&nbsp; &nbsp; &nbsp; &nbsp; 威海，一座美丽的海滨城市，它像是一座漂亮的大花园，伫立在山东半岛沿海岸边。再加上它整洁的市容市貌，清新的空气质量，许多人认为它是梦寐以求的休闲疗养之地，也是适合旅游度假胜地。下面，给你介绍两个著名景点：<br><strong>1、仙姑顶风景区</strong><br>&nbsp; &nbsp; &nbsp; &nbsp; 仙姑顶，位于威海市环翠区以南，离市中心仅五公里，在望岛西北山最高峰，海拔375米。是威海市、文登市市民休闲娱乐的绝佳去处。</div>
+        <div style="text-align: center;"><img src="@@PLUGINFILE@@/2-1.jpg" alt="仙姑顶" width="432" height="288" class="img-fluid atto_image_button_text-bottom"><br></div>
+        <div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><strong>2、环翠楼公园风景区</strong><br>&nbsp; &nbsp; &nbsp;
+            &nbsp; 环翠楼公园风景区包括环翠楼公园和环翠楼广场两部分，因园内有古典式建筑“环翠楼”而得名。环翠楼广场建有民族英雄邓世昌的铜像，是威海著名的风景游览区，也是市民休憩、健身之佳地。</div>
+        <div style="text-align: center;"><img src="@@PLUGINFILE@@/2-2.jpg" alt="环翠楼" width="427" height="302" class="img-fluid atto_image_button_text-bottom"><br></div>
+        <div style="text-align: center;"><img src="@@PLUGINFILE@@/1%E8%B7%AF.png" alt="1路公交车" width="843" height="549" class="img-fluid atto_image_button_text-bottom"><br></div>
+        <div style="text-align: center;"><img src="@@PLUGINFILE@@/28%E8%B7%AF.png" alt="28路公交车" width="931" height="797" class="img-fluid atto_image_button_text-bottom"><br></div>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:9:"gapselect";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221102072419+TVrKIm";s:7:"version";s:33:"moodlenlm.xyz+221125013744+8x0Hzw";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667373859";s:12:"timemodified";s:10:"1669340264";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"1";s:7:"options";O:8:"stdClass":11:{s:2:"id";s:1:"8";s:10:"questionid";s:3:"146";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:14:"shownumcorrect";s:1:"1";s:7:"answers";a:6:{i:420;O:8:"stdClass":7:{s:2:"id";s:3:"420";s:8:"question";s:3:"146";s:6:"answer";s:2:"28";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:1:"1";s:14:"feedbackformat";s:1:"0";}i:421;O:8:"stdClass":7:{s:2:"id";s:3:"421";s:8:"question";s:3:"146";s:6:"answer";s:2:"K6";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:1:"1";s:14:"feedbackformat";s:1:"0";}i:422;O:8:"stdClass":7:{s:2:"id";s:3:"422";s:8:"question";s:3:"146";s:6:"answer";s:2:"11";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:1:"2";s:14:"feedbackformat";s:1:"0";}i:423;O:8:"stdClass":7:{s:2:"id";s:3:"423";s:8:"question";s:3:"146";s:6:"answer";s:2:"12";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:1:"2";s:14:"feedbackformat";s:1:"0";}i:424;O:8:"stdClass":7:{s:2:"id";s:3:"424";s:8:"question";s:3:"146";s:6:"answer";s:1:"5";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:1:"2";s:14:"feedbackformat";s:1:"0";}i:425;O:8:"stdClass":7:{s:2:"id";s:3:"425";s:8:"question";s:3:"146";s:6:"answer";s:1:"6";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:1:"2";s:14:"feedbackformat";s:1:"0";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:3:"123";s:4:"name";s:6:"定位";s:9:"contextid";s:1:"1";s:4:"info";s:0:"";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124180235+VXQ2Ft";s:6:"parent";s:3:"146";s:9:"sortorder";s:1:"0";s:8:"idnumber";N;}}

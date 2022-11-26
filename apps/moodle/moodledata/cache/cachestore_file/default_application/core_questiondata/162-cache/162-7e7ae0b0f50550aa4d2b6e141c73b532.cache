@@ -1,0 +1,47 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"162";s:8:"category";s:3:"124";s:6:"parent";s:1:"0";s:4:"name";s:7:"就医1";s:12:"questiontext";s:1850:"<h3 class="mt5"><strong>
+    马小跳就医</strong></h3>
+
+<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+        <p dir="ltr"><span style="font-size: 0.9375rem;">去医院看病是一个程序化的过程，如</span><span style="font-size: 0.9375rem;">图1所示。如果了解医院的就诊过程，看</span><span style="font-size: 0.9375rem;">病时就不会那么迷茫焦虑。一</span><span style="font-size: 0.9375rem;">般医院的就诊流程包括:</span><br></p>
+        <p dir="ltr"><span style="font-size: 0.9375rem;"></span></p>
+        <p dir="ltr">1.就诊，<span>即现场就医;<br>2.挂号，可根据自身症状挂</span><span>所属科室就诊;&nbsp;<br></span><span>3.各楼层导医，找到科室</span><span>对应的楼层并与医生交代病症;&nbsp;<br></span><span>4.费用，</span><span>收取此次就医的都有哪些费用;<br>5.回医生</span><span>诊室交代，是否需要回医生诊室，具体需</span><span>要以医生交代的情况为主。<br>6.最后， 便可</span>&nbsp;<span>离院。</span></p>
+        <p></p>
+        <p dir="ltr"><span style="font-size: 0.9375rem;"><strong>马小跳乱吃食物导致生病了， 他的就诊流程是怎样的？</strong></span><br></p>
+    </div>
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 400px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/1.png" alt="就医流程图" width="402" height="393" class="img-fluid atto_image_button_text-bottom"><br></p>
+        <p dir="ltr" style="text-align: left;"></p>
+
+        <p></p>
+
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221106124955+l3g1wp";s:7:"version";s:33:"moodlenlm.xyz+221125014334+auGgrq";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667738995";s:12:"timemodified";s:10:"1669340614";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"1";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:2:"88";s:10:"questionid";s:3:"162";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:473;O:8:"stdClass":7:{s:2:"id";s:3:"473";s:8:"question";s:3:"162";s:6:"answer";s:270:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">就诊——挂号——各楼层导医——医生诊室——收费<br></p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:474;O:8:"stdClass":7:{s:2:"id";s:3:"474";s:8:"question";s:3:"162";s:6:"answer";s:240:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">挂号——各楼层导医——住院<br></p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:475;O:8:"stdClass":7:{s:2:"id";s:3:"475";s:8:"question";s:3:"162";s:6:"answer";s:252:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">就诊——挂号——各楼层导医——收费<br></p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:476;O:8:"stdClass":7:{s:2:"id";s:3:"476";s:8:"question";s:3:"162";s:6:"answer";s:246:"<div style="position:relative;
+                  width:37%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+<p dir="ltr" style="text-align: left;">就诊——挂号——收费———手术<br></p></div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:3:"124";s:4:"name";s:6:"解释";s:9:"contextid";s:1:"1";s:4:"info";s:0:"";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124180303+kt8DhU";s:6:"parent";s:3:"146";s:9:"sortorder";s:1:"2";s:8:"idnumber";N;}}

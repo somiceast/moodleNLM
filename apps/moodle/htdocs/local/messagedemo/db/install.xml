@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="local/messagedemo/db" VERSION="2022100400" COMMENT="XMLDB file for Moodle local/messagedemo plugin"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+    <TABLES>
+        <TABLE NAME="local_messagedemo" COMMENT="mdl_local_message">
+            <FIELDS>
+                <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+                <FIELD NAME="msgtext" TYPE="text" NOTNULL="true" SEQUENCE="false" COMMENT="»á»°ÏûÏ¢ÎÄ±¾"/>
+                <FIELD NAME="msgtype" TYPE="int"  LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="ÏûÏ¢Àà±ð"/>
+<!--                <FIELD NAME="dialogflowmsgsessionid" TYPE="int" NOTNULL="true" SEQUENCE="false" COMMENT="ÓëdialogÏûÏ¢¹ØÁªµÄsessionid"/>-->
+                <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="false"/>
+                <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" DEFAULT="0" SEQUENCE="false"/>
+            </FIELDS>
+            <KEYS>
+                <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+            </KEYS>
+        </TABLE>
+        <TABLE NAME="local_messagedemo_sessionid" COMMENT="´æ´¢»á»°sessionidµÄ±í">
+            <FIELDS>
+                <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+                <FIELD NAME="messageid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" />
+<!--                <FIELD NAME="sessionid" TYPE="text" NOTNULL="true" SEQUENCE="false" COMMENT="»á»°ÏûÏ¢session id"/>-->
+                <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+            </FIELDS>
+            <KEYS>
+                <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+            </KEYS>
+        </TABLE>
+    </TABLES>
+</XMLDB>
+

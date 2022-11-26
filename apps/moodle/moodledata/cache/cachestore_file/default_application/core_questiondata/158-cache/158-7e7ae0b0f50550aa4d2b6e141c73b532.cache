@@ -1,0 +1,22 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"158";s:8:"category";s:2:"69";s:6:"parent";s:1:"0";s:4:"name";s:7:"面包3";s:12:"questiontext";s:872:"<h3 style="text-align: left;"><strong>马小跳买面包</strong></h3>
+
+<div style="position:relative;">
+    <div style="width:37%; vertical-align:top;">
+
+        <p><br></p>
+        <p><br></p><p>面包是人们重要的食物，读右侧的非连续性文本，了解有关信息。<strong>最受欢迎和投票率最高的法式面包品牌是什么？
+        </strong></p>
+    </div>
+    <div style="position:absolute;
+                  left:40%;
+                  top:5px;
+                  width:60%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/3.png" alt="面包品牌" width="500" height="197" class="img-fluid atto_image_button_text-bottom"></p>
+
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221106100748+0VCAPz";s:7:"version";s:33:"moodlenlm.xyz+221125023337+CVX6dh";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667729268";s:12:"timemodified";s:10:"1669343617";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"3";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:2:"85";s:10:"questionid";s:3:"158";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:461;O:8:"stdClass":7:{s:2:"id";s:3:"461";s:8:"question";s:3:"158";s:6:"answer";s:55:"<p dir="ltr" style="text-align: left;">面包物语</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:462;O:8:"stdClass":7:{s:2:"id";s:3:"462";s:8:"question";s:3:"158";s:6:"answer";s:52:"<p dir="ltr" style="text-align: left;">东海堂</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:463;O:8:"stdClass":7:{s:2:"id";s:3:"463";s:8:"question";s:3:"158";s:6:"answer";s:52:"<p dir="ltr" style="text-align: left;">达利园</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:464;O:8:"stdClass":7:{s:2:"id";s:3:"464";s:8:"question";s:3:"158";s:6:"answer";s:49:"<p dir="ltr" style="text-align: left;">金麦</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"69";s:4:"name";s:8:"V2定位";s:9:"contextid";s:1:"3";s:4:"info";s:144:"<p dir="ltr" style="">我能够根据关键词、关键句、图表标题、表头信息找到多个文字、图表中特定的信息。<br></p>";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124114940+vnfJr5";s:6:"parent";s:1:"3";s:9:"sortorder";s:1:"1";s:8:"idnumber";N;}}

@@ -1,0 +1,23 @@
+O:8:"stdClass":24:{s:2:"id";s:2:"96";s:8:"category";s:2:"69";s:6:"parent";s:1:"0";s:4:"name";s:13:"网上购书3";s:12:"questiontext";s:1176:"<p dir="ltr" style="text-align: left;"><span style="font-size: 1.64062rem;">网上购书</span><br></p>
+
+<div style="position:relative;">
+    <div style="width:25%; vertical-align:top;">
+        <p><br></p>
+        <p><br></p>
+        <p><br></p>
+        <p><br></p>
+        <p><strong>王一购买的书预计哪天可以收到？</strong><br></p>
+    </div>
+    <div style="position:absolute;
+                  left:27%;
+                  top:5px;
+                  width:73%;
+                  height: 300px;
+                  overflow: auto;
+                  padding:15px;
+                  background-color:#fff;
+      ">
+        <p dir="ltr" style="text-align: left;"><img src="@@PLUGINFILE@@/1.jpg" alt="快递单" width="800" height="455" class="img-fluid atto_image_button_text-bottom"><img src="@@PLUGINFILE@@/3.jpg" alt="3" width="300" height="415" style="font-size: 0.9375rem;" class="img-fluid atto_image_button_text-bottom"><img src="@@PLUGINFILE@@/3%EF%BC%881%EF%BC%89.jpg" alt="快递记录" width="400" height="479" class="img-fluid atto_image_button_text-bottom" style="font-size: 0.9375rem;"><br></p>
+        <p></p>
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221029031438+SWyzFn";s:7:"version";s:33:"moodlenlm.xyz+221124082121+adzAlm";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1667013278";s:12:"timemodified";s:10:"1669278081";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:1:"3";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:2:"52";s:10:"questionid";s:2:"96";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:27:"您的答案是正确的。";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:27:"您的答案部分正确。";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:21:"您的答案不正确";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:4:{i:231;O:8:"stdClass":7:{s:2:"id";s:3:"231";s:8:"question";s:2:"96";s:6:"answer";s:51:"<p dir="ltr" style="text-align: left;">7月8日</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:232;O:8:"stdClass":7:{s:2:"id";s:3:"232";s:8:"question";s:2:"96";s:6:"answer";s:51:"<p dir="ltr" style="text-align: left;">7月9日</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:233;O:8:"stdClass":7:{s:2:"id";s:3:"233";s:8:"question";s:2:"96";s:6:"answer";s:52:"<p dir="ltr" style="text-align: left;">7月10日</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:234;O:8:"stdClass":7:{s:2:"id";s:3:"234";s:8:"question";s:2:"96";s:6:"answer";s:52:"<p dir="ltr" style="text-align: left;">7月11日</p>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"69";s:4:"name";s:8:"V2定位";s:9:"contextid";s:1:"3";s:4:"info";s:144:"<p dir="ltr" style="">我能够根据关键词、关键句、图表标题、表头信息找到多个文字、图表中特定的信息。<br></p>";s:10:"infoformat";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221124114940+vnfJr5";s:6:"parent";s:1:"3";s:9:"sortorder";s:1:"1";s:8:"idnumber";N;}}

@@ -1,0 +1,29 @@
+O:8:"stdClass":24:{s:2:"id";s:3:"209";s:8:"category";s:2:"38";s:6:"parent";s:1:"0";s:4:"name";s:44:"Dual pane quiz (one window, single question)";s:12:"questiontext";s:1610:"<!--
+© 2018 Dominique Bauer
+CC0 1.0 Universal Public Domain Dedication
+-->
+<h3 class="mt5"><span class="" style="font-size: x-large;">乍得湖</span></h3>
+<div style="position:relative;">
+    <div style="width:27%; vertical-align:top;">
+        <p><span class="" style="font-size: medium;">图1显示了北非撒哈拉地区乍得湖水位的变化。 大约在公元前20,000年的最后一个冰河时代，乍得湖完全干涸消失了。 大约在公元前11,000年，它再次出现。 现在乍得湖的水位与公元1000 大致相同。</span></p><p><br></p>
+        <p><span class="" style="font-size: medium;">图2显示了撒哈拉岩画艺术（在洞穴墙壁上发现的古代图画或绘画）和不断变化的野生动物变化模式。</span></p>
+        <p><span class="" style="font-size: medium;">对于这个问题，您需要汇总图 1 和图 2 中的信息进行分析：</span></p>
+        <p><span style="font-size: medium;" class="">1.现在乍得湖的深度是多少米？</span><br></p>
+    </div>
+    <div style="position:absolute;
+                top:-30px;
+                  left:30%;
+                  width:70%;
+                  height: 400px;
+                  overflow: auto;
+                  background-color:#fff;
+      ">
+        <img src="@@PLUGINFILE@@/1-1.png" alt="图1 乍得湖水位变化图" width="600" height="385" class="img-fluid atto_image_button_text-bottom"><img src="@@PLUGINFILE@@/1-2.png" alt="图2 岩画中野生生物的演变
+" width="600" height="311" class="img-fluid atto_image_button_text-bottom">
+    </div>
+</div>";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:0:"";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"moodlenlm.xyz+221122104538+3QQaSL";s:7:"version";s:33:"moodlenlm.xyz+221122122107+Yp20PE";s:6:"hidden";s:1:"0";s:11:"timecreated";s:10:"1669113938";s:12:"timemodified";s:10:"1669119667";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";s:22:"question_20220611_2338";s:9:"contextid";s:2:"66";s:7:"options";O:8:"stdClass":15:{s:2:"id";s:3:"125";s:10:"questionid";s:3:"209";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"1";s:15:"correctfeedback";s:23:"Your answer is correct.";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:33:"Your answer is partially correct.";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:25:"Your answer is incorrect.";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:4:"none";s:14:"shownumcorrect";s:1:"1";s:23:"showstandardinstruction";s:1:"0";s:7:"answers";a:5:{i:652;O:8:"stdClass":7:{s:2:"id";s:3:"652";s:8:"question";s:3:"209";s:6:"answer";s:165:"<div style="position:relative;
+                  width:43%;
+                  display:inline-block;
+                  vertical-align:top;
+  ">
+大约15米</div>";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:653;O:8:"stdClass":7:{s:2:"id";s:3:"653";s:8:"question";s:3:"209";s:6:"answer";s:15:"未提供信息";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:654;O:8:"stdClass":7:{s:2:"id";s:3:"654";s:8:"question";s:3:"209";s:6:"answer";s:24:"它已经完全消失了";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:655;O:8:"stdClass":7:{s:2:"id";s:3:"655";s:8:"question";s:3:"209";s:6:"answer";s:10:"大约2米";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"1.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:657;O:8:"stdClass":7:{s:2:"id";s:3:"657";s:8:"question";s:3:"209";s:6:"answer";s:11:"大约10米";s:12:"answerformat";s:1:"1";s:8:"fraction";s:9:"0.0000000";s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:2:"38";s:4:"name";s:31:"默认 非连阅读能力测评";s:9:"contextid";s:2:"66";s:4:"info";s:69:"场景“非连阅读能力测评”中共享试题的默认类别。";s:10:"infoformat";s:1:"0";s:5:"stamp";s:33:"moodlenlm.xyz+221002075837+ZIX9Vz";s:6:"parent";s:2:"36";s:9:"sortorder";s:1:"2";s:8:"idnumber";N;}}
